@@ -1,0 +1,3 @@
+﻿Year,Month,AO,Source,SourceURL,Note
+2025,11,-0.467,NOAA NCEI,https://www.ncei.noaa.gov/access/monitoring/ao/,Used because the downloaded NOAA monthly CSV contains a missing-value sentinel.
+2025,12,0.267,NOAA NCEI,https://www.ncei.noaa.gov/access/monitoring/ao/,Used because the downloaded NOAA monthly CSV contains a missing-value sentinel.

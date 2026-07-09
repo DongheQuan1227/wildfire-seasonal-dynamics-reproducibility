@@ -1,0 +1,60 @@
+# Generated analysis outputs
+**/output/
+08_Regression_modeling/0[1-9]_*/
+08_Regression_modeling/10_Manuscript_Figure_08/
+09_RF_modeling/0[1-9]_*/
+09_RF_modeling/1[0-4]_*/
+10_Model_comparison/0[1-8]_*/
+11_SEM_mechanism_analysis/0[1-6]_*/
+
+# Runner logs and caches
+run_logs/
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.Rproj.user/
+.ipynb_checkpoints/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ============================================================================
+# Executed workflow outputs
+# Keep source scripts under 00_Script, but exclude generated analysis folders.
+# Complete executed outputs are distributed through the GitHub Release.
+# ============================================================================
+
+08_Regression_modeling/*/
+!08_Regression_modeling/00_Script/
+!08_Regression_modeling/00_Script/**
+
+09_RF_modeling/*/
+!09_RF_modeling/00_Script/
+!09_RF_modeling/00_Script/**
+
+10_Model_comparison/*/
+!10_Model_comparison/00_Script/
+!10_Model_comparison/00_Script/**
+
+11_SEM_mechanism_analysis/*/
+!11_SEM_mechanism_analysis/00_Script/
+!11_SEM_mechanism_analysis/00_Script/**
+
+# Outputs from descriptive-analysis modules
+**/output/
+
+# Local workflow and comparison records
+run_logs/
+comparison_with_original_*/
+
+# Temporary and cache files
+Rplots.pdf
+**/__pycache__/
+*.pyc
+*.pyo
+*.tmp
+*.temp
+

@@ -1,0 +1,2451 @@
+﻿Metric,Country,Administrative region,Year,HS_BIN,Class label,Count,Total valid cells,Percentage (%)
+FC,China,Heilongjiang,2001,-3,"Cold spot, 99%",0,314,0.0
+FC,China,Heilongjiang,2001,-2,"Cold spot, 95%",0,314,0.0
+FC,China,Heilongjiang,2001,-1,"Cold spot, 90%",71,314,22.61
+FC,China,Heilongjiang,2001,0,Not significant,241,314,76.75
+FC,China,Heilongjiang,2001,1,"Hot spot, 90%",0,314,0.0
+FC,China,Heilongjiang,2001,2,"Hot spot, 95%",1,314,0.32
+FC,China,Heilongjiang,2001,3,"Hot spot, 99%",1,314,0.32
+FC,China,Heilongjiang,2002,-3,"Cold spot, 99%",13,314,4.14
+FC,China,Heilongjiang,2002,-2,"Cold spot, 95%",119,314,37.9
+FC,China,Heilongjiang,2002,-1,"Cold spot, 90%",21,314,6.69
+FC,China,Heilongjiang,2002,0,Not significant,161,314,51.27
+FC,China,Heilongjiang,2002,1,"Hot spot, 90%",0,314,0.0
+FC,China,Heilongjiang,2002,2,"Hot spot, 95%",0,314,0.0
+FC,China,Heilongjiang,2002,3,"Hot spot, 99%",0,314,0.0
+FC,China,Heilongjiang,2003,-3,"Cold spot, 99%",6,314,1.91
+FC,China,Heilongjiang,2003,-2,"Cold spot, 95%",98,314,31.21
+FC,China,Heilongjiang,2003,-1,"Cold spot, 90%",19,314,6.05
+FC,China,Heilongjiang,2003,0,Not significant,136,314,43.31
+FC,China,Heilongjiang,2003,1,"Hot spot, 90%",6,314,1.91
+FC,China,Heilongjiang,2003,2,"Hot spot, 95%",17,314,5.41
+FC,China,Heilongjiang,2003,3,"Hot spot, 99%",32,314,10.19
+FC,China,Heilongjiang,2004,-3,"Cold spot, 99%",5,314,1.59
+FC,China,Heilongjiang,2004,-2,"Cold spot, 95%",84,314,26.75
+FC,China,Heilongjiang,2004,-1,"Cold spot, 90%",17,314,5.41
+FC,China,Heilongjiang,2004,0,Not significant,75,314,23.89
+FC,China,Heilongjiang,2004,1,"Hot spot, 90%",12,314,3.82
+FC,China,Heilongjiang,2004,2,"Hot spot, 95%",24,314,7.64
+FC,China,Heilongjiang,2004,3,"Hot spot, 99%",97,314,30.89
+FC,China,Heilongjiang,2005,-3,"Cold spot, 99%",15,314,4.78
+FC,China,Heilongjiang,2005,-2,"Cold spot, 95%",87,314,27.71
+FC,China,Heilongjiang,2005,-1,"Cold spot, 90%",16,314,5.1
+FC,China,Heilongjiang,2005,0,Not significant,121,314,38.54
+FC,China,Heilongjiang,2005,1,"Hot spot, 90%",13,314,4.14
+FC,China,Heilongjiang,2005,2,"Hot spot, 95%",17,314,5.41
+FC,China,Heilongjiang,2005,3,"Hot spot, 99%",45,314,14.33
+FC,China,Heilongjiang,2006,-3,"Cold spot, 99%",33,314,10.51
+FC,China,Heilongjiang,2006,-2,"Cold spot, 95%",86,314,27.39
+FC,China,Heilongjiang,2006,-1,"Cold spot, 90%",14,314,4.46
+FC,China,Heilongjiang,2006,0,Not significant,171,314,54.46
+FC,China,Heilongjiang,2006,1,"Hot spot, 90%",5,314,1.59
+FC,China,Heilongjiang,2006,2,"Hot spot, 95%",1,314,0.32
+FC,China,Heilongjiang,2006,3,"Hot spot, 99%",4,314,1.27
+FC,China,Heilongjiang,2007,-3,"Cold spot, 99%",31,314,9.87
+FC,China,Heilongjiang,2007,-2,"Cold spot, 95%",89,314,28.34
+FC,China,Heilongjiang,2007,-1,"Cold spot, 90%",27,314,8.6
+FC,China,Heilongjiang,2007,0,Not significant,151,314,48.09
+FC,China,Heilongjiang,2007,1,"Hot spot, 90%",5,314,1.59
+FC,China,Heilongjiang,2007,2,"Hot spot, 95%",6,314,1.91
+FC,China,Heilongjiang,2007,3,"Hot spot, 99%",5,314,1.59
+FC,China,Heilongjiang,2008,-3,"Cold spot, 99%",30,314,9.55
+FC,China,Heilongjiang,2008,-2,"Cold spot, 95%",82,314,26.11
+FC,China,Heilongjiang,2008,-1,"Cold spot, 90%",17,314,5.41
+FC,China,Heilongjiang,2008,0,Not significant,113,314,35.99
+FC,China,Heilongjiang,2008,1,"Hot spot, 90%",11,314,3.5
+FC,China,Heilongjiang,2008,2,"Hot spot, 95%",16,314,5.1
+FC,China,Heilongjiang,2008,3,"Hot spot, 99%",45,314,14.33
+FC,China,Heilongjiang,2009,-3,"Cold spot, 99%",21,314,6.69
+FC,China,Heilongjiang,2009,-2,"Cold spot, 95%",87,314,27.71
+FC,China,Heilongjiang,2009,-1,"Cold spot, 90%",16,314,5.1
+FC,China,Heilongjiang,2009,0,Not significant,48,314,15.29
+FC,China,Heilongjiang,2009,1,"Hot spot, 90%",6,314,1.91
+FC,China,Heilongjiang,2009,2,"Hot spot, 95%",7,314,2.23
+FC,China,Heilongjiang,2009,3,"Hot spot, 99%",129,314,41.08
+FC,China,Heilongjiang,2010,-3,"Cold spot, 99%",22,314,7.01
+FC,China,Heilongjiang,2010,-2,"Cold spot, 95%",88,314,28.03
+FC,China,Heilongjiang,2010,-1,"Cold spot, 90%",13,314,4.14
+FC,China,Heilongjiang,2010,0,Not significant,82,314,26.11
+FC,China,Heilongjiang,2010,1,"Hot spot, 90%",11,314,3.5
+FC,China,Heilongjiang,2010,2,"Hot spot, 95%",13,314,4.14
+FC,China,Heilongjiang,2010,3,"Hot spot, 99%",85,314,27.07
+FC,China,Heilongjiang,2011,-3,"Cold spot, 99%",14,314,4.46
+FC,China,Heilongjiang,2011,-2,"Cold spot, 95%",101,314,32.17
+FC,China,Heilongjiang,2011,-1,"Cold spot, 90%",20,314,6.37
+FC,China,Heilongjiang,2011,0,Not significant,164,314,52.23
+FC,China,Heilongjiang,2011,1,"Hot spot, 90%",9,314,2.87
+FC,China,Heilongjiang,2011,2,"Hot spot, 95%",5,314,1.59
+FC,China,Heilongjiang,2011,3,"Hot spot, 99%",1,314,0.32
+FC,China,Heilongjiang,2012,-3,"Cold spot, 99%",0,314,0.0
+FC,China,Heilongjiang,2012,-2,"Cold spot, 95%",108,314,34.39
+FC,China,Heilongjiang,2012,-1,"Cold spot, 90%",16,314,5.1
+FC,China,Heilongjiang,2012,0,Not significant,154,314,49.04
+FC,China,Heilongjiang,2012,1,"Hot spot, 90%",10,314,3.18
+FC,China,Heilongjiang,2012,2,"Hot spot, 95%",11,314,3.5
+FC,China,Heilongjiang,2012,3,"Hot spot, 99%",15,314,4.78
+FC,China,Heilongjiang,2013,-3,"Cold spot, 99%",2,314,0.64
+FC,China,Heilongjiang,2013,-2,"Cold spot, 95%",111,314,35.35
+FC,China,Heilongjiang,2013,-1,"Cold spot, 90%",18,314,5.73
+FC,China,Heilongjiang,2013,0,Not significant,182,314,57.96
+FC,China,Heilongjiang,2013,1,"Hot spot, 90%",1,314,0.32
+FC,China,Heilongjiang,2013,2,"Hot spot, 95%",0,314,0.0
+FC,China,Heilongjiang,2013,3,"Hot spot, 99%",0,314,0.0
+FC,China,Heilongjiang,2014,-3,"Cold spot, 99%",11,314,3.5
+FC,China,Heilongjiang,2014,-2,"Cold spot, 95%",97,314,30.89
+FC,China,Heilongjiang,2014,-1,"Cold spot, 90%",14,314,4.46
+FC,China,Heilongjiang,2014,0,Not significant,126,314,40.13
+FC,China,Heilongjiang,2014,1,"Hot spot, 90%",17,314,5.41
+FC,China,Heilongjiang,2014,2,"Hot spot, 95%",19,314,6.05
+FC,China,Heilongjiang,2014,3,"Hot spot, 99%",30,314,9.55
+FC,China,Heilongjiang,2015,-3,"Cold spot, 99%",7,314,2.23
+FC,China,Heilongjiang,2015,-2,"Cold spot, 95%",91,314,28.98
+FC,China,Heilongjiang,2015,-1,"Cold spot, 90%",17,314,5.41
+FC,China,Heilongjiang,2015,0,Not significant,120,314,38.22
+FC,China,Heilongjiang,2015,1,"Hot spot, 90%",4,314,1.27
+FC,China,Heilongjiang,2015,2,"Hot spot, 95%",16,314,5.1
+FC,China,Heilongjiang,2015,3,"Hot spot, 99%",59,314,18.79
+FC,China,Heilongjiang,2016,-3,"Cold spot, 99%",9,314,2.87
+FC,China,Heilongjiang,2016,-2,"Cold spot, 95%",95,314,30.25
+FC,China,Heilongjiang,2016,-1,"Cold spot, 90%",24,314,7.64
+FC,China,Heilongjiang,2016,0,Not significant,186,314,59.24
+FC,China,Heilongjiang,2016,1,"Hot spot, 90%",0,314,0.0
+FC,China,Heilongjiang,2016,2,"Hot spot, 95%",0,314,0.0
+FC,China,Heilongjiang,2016,3,"Hot spot, 99%",0,314,0.0
+FC,China,Heilongjiang,2017,-3,"Cold spot, 99%",17,314,5.41
+FC,China,Heilongjiang,2017,-2,"Cold spot, 95%",105,314,33.44
+FC,China,Heilongjiang,2017,-1,"Cold spot, 90%",22,314,7.01
+FC,China,Heilongjiang,2017,0,Not significant,167,314,53.18
+FC,China,Heilongjiang,2017,1,"Hot spot, 90%",3,314,0.96
+FC,China,Heilongjiang,2017,2,"Hot spot, 95%",0,314,0.0
+FC,China,Heilongjiang,2017,3,"Hot spot, 99%",0,314,0.0
+FC,China,Heilongjiang,2018,-3,"Cold spot, 99%",8,314,2.55
+FC,China,Heilongjiang,2018,-2,"Cold spot, 95%",90,314,28.66
+FC,China,Heilongjiang,2018,-1,"Cold spot, 90%",19,314,6.05
+FC,China,Heilongjiang,2018,0,Not significant,128,314,40.76
+FC,China,Heilongjiang,2018,1,"Hot spot, 90%",21,314,6.69
+FC,China,Heilongjiang,2018,2,"Hot spot, 95%",21,314,6.69
+FC,China,Heilongjiang,2018,3,"Hot spot, 99%",27,314,8.6
+FC,China,Heilongjiang,2019,-3,"Cold spot, 99%",4,314,1.27
+FC,China,Heilongjiang,2019,-2,"Cold spot, 95%",87,314,27.71
+FC,China,Heilongjiang,2019,-1,"Cold spot, 90%",17,314,5.41
+FC,China,Heilongjiang,2019,0,Not significant,103,314,32.8
+FC,China,Heilongjiang,2019,1,"Hot spot, 90%",14,314,4.46
+FC,China,Heilongjiang,2019,2,"Hot spot, 95%",24,314,7.64
+FC,China,Heilongjiang,2019,3,"Hot spot, 99%",65,314,20.7
+FC,China,Heilongjiang,2020,-3,"Cold spot, 99%",9,314,2.87
+FC,China,Heilongjiang,2020,-2,"Cold spot, 95%",101,314,32.17
+FC,China,Heilongjiang,2020,-1,"Cold spot, 90%",25,314,7.96
+FC,China,Heilongjiang,2020,0,Not significant,148,314,47.13
+FC,China,Heilongjiang,2020,1,"Hot spot, 90%",4,314,1.27
+FC,China,Heilongjiang,2020,2,"Hot spot, 95%",16,314,5.1
+FC,China,Heilongjiang,2020,3,"Hot spot, 99%",11,314,3.5
+FC,China,Heilongjiang,2021,-3,"Cold spot, 99%",26,314,8.28
+FC,China,Heilongjiang,2021,-2,"Cold spot, 95%",94,314,29.94
+FC,China,Heilongjiang,2021,-1,"Cold spot, 90%",32,314,10.19
+FC,China,Heilongjiang,2021,0,Not significant,162,314,51.59
+FC,China,Heilongjiang,2021,1,"Hot spot, 90%",0,314,0.0
+FC,China,Heilongjiang,2021,2,"Hot spot, 95%",0,314,0.0
+FC,China,Heilongjiang,2021,3,"Hot spot, 99%",0,314,0.0
+FC,China,Heilongjiang,2022,-3,"Cold spot, 99%",12,314,3.82
+FC,China,Heilongjiang,2022,-2,"Cold spot, 95%",99,314,31.53
+FC,China,Heilongjiang,2022,-1,"Cold spot, 90%",21,314,6.69
+FC,China,Heilongjiang,2022,0,Not significant,179,314,57.01
+FC,China,Heilongjiang,2022,1,"Hot spot, 90%",1,314,0.32
+FC,China,Heilongjiang,2022,2,"Hot spot, 95%",2,314,0.64
+FC,China,Heilongjiang,2022,3,"Hot spot, 99%",0,314,0.0
+FC,China,Heilongjiang,2023,-3,"Cold spot, 99%",15,314,4.78
+FC,China,Heilongjiang,2023,-2,"Cold spot, 95%",152,314,48.41
+FC,China,Heilongjiang,2023,-1,"Cold spot, 90%",57,314,18.15
+FC,China,Heilongjiang,2023,0,Not significant,90,314,28.66
+FC,China,Heilongjiang,2023,1,"Hot spot, 90%",0,314,0.0
+FC,China,Heilongjiang,2023,2,"Hot spot, 95%",0,314,0.0
+FC,China,Heilongjiang,2023,3,"Hot spot, 99%",0,314,0.0
+FC,China,Heilongjiang,2024,-3,"Cold spot, 99%",35,314,11.15
+FC,China,Heilongjiang,2024,-2,"Cold spot, 95%",179,314,57.01
+FC,China,Heilongjiang,2024,-1,"Cold spot, 90%",49,314,15.61
+FC,China,Heilongjiang,2024,0,Not significant,51,314,16.24
+FC,China,Heilongjiang,2024,1,"Hot spot, 90%",0,314,0.0
+FC,China,Heilongjiang,2024,2,"Hot spot, 95%",0,314,0.0
+FC,China,Heilongjiang,2024,3,"Hot spot, 99%",0,314,0.0
+FC,China,Heilongjiang,2025,-3,"Cold spot, 99%",27,314,8.6
+FC,China,Heilongjiang,2025,-2,"Cold spot, 95%",204,314,64.97
+FC,China,Heilongjiang,2025,-1,"Cold spot, 90%",55,314,17.52
+FC,China,Heilongjiang,2025,0,Not significant,28,314,8.92
+FC,China,Heilongjiang,2025,1,"Hot spot, 90%",0,314,0.0
+FC,China,Heilongjiang,2025,2,"Hot spot, 95%",0,314,0.0
+FC,China,Heilongjiang,2025,3,"Hot spot, 99%",0,314,0.0
+FC,China,Jilin,2001,-3,"Cold spot, 99%",4,206,1.94
+FC,China,Jilin,2001,-2,"Cold spot, 95%",60,206,29.13
+FC,China,Jilin,2001,-1,"Cold spot, 90%",74,206,35.92
+FC,China,Jilin,2001,0,Not significant,68,206,33.01
+FC,China,Jilin,2001,1,"Hot spot, 90%",0,206,0.0
+FC,China,Jilin,2001,2,"Hot spot, 95%",0,206,0.0
+FC,China,Jilin,2001,3,"Hot spot, 99%",0,206,0.0
+FC,China,Jilin,2002,-3,"Cold spot, 99%",91,206,44.17
+FC,China,Jilin,2002,-2,"Cold spot, 95%",93,206,45.15
+FC,China,Jilin,2002,-1,"Cold spot, 90%",7,206,3.4
+FC,China,Jilin,2002,0,Not significant,15,206,7.28
+FC,China,Jilin,2002,1,"Hot spot, 90%",0,206,0.0
+FC,China,Jilin,2002,2,"Hot spot, 95%",0,206,0.0
+FC,China,Jilin,2002,3,"Hot spot, 99%",0,206,0.0
+FC,China,Jilin,2003,-3,"Cold spot, 99%",82,206,39.81
+FC,China,Jilin,2003,-2,"Cold spot, 95%",94,206,45.63
+FC,China,Jilin,2003,-1,"Cold spot, 90%",14,206,6.8
+FC,China,Jilin,2003,0,Not significant,7,206,3.4
+FC,China,Jilin,2003,1,"Hot spot, 90%",2,206,0.97
+FC,China,Jilin,2003,2,"Hot spot, 95%",2,206,0.97
+FC,China,Jilin,2003,3,"Hot spot, 99%",5,206,2.43
+FC,China,Jilin,2004,-3,"Cold spot, 99%",40,206,19.42
+FC,China,Jilin,2004,-2,"Cold spot, 95%",112,206,54.37
+FC,China,Jilin,2004,-1,"Cold spot, 90%",21,206,10.19
+FC,China,Jilin,2004,0,Not significant,20,206,9.71
+FC,China,Jilin,2004,1,"Hot spot, 90%",1,206,0.49
+FC,China,Jilin,2004,2,"Hot spot, 95%",0,206,0.0
+FC,China,Jilin,2004,3,"Hot spot, 99%",12,206,5.83
+FC,China,Jilin,2005,-3,"Cold spot, 99%",54,206,26.21
+FC,China,Jilin,2005,-2,"Cold spot, 95%",100,206,48.54
+FC,China,Jilin,2005,-1,"Cold spot, 90%",13,206,6.31
+FC,China,Jilin,2005,0,Not significant,25,206,12.14
+FC,China,Jilin,2005,1,"Hot spot, 90%",0,206,0.0
+FC,China,Jilin,2005,2,"Hot spot, 95%",1,206,0.49
+FC,China,Jilin,2005,3,"Hot spot, 99%",13,206,6.31
+FC,China,Jilin,2006,-3,"Cold spot, 99%",73,206,35.44
+FC,China,Jilin,2006,-2,"Cold spot, 95%",84,206,40.78
+FC,China,Jilin,2006,-1,"Cold spot, 90%",15,206,7.28
+FC,China,Jilin,2006,0,Not significant,22,206,10.68
+FC,China,Jilin,2006,1,"Hot spot, 90%",0,206,0.0
+FC,China,Jilin,2006,2,"Hot spot, 95%",5,206,2.43
+FC,China,Jilin,2006,3,"Hot spot, 99%",7,206,3.4
+FC,China,Jilin,2007,-3,"Cold spot, 99%",47,206,22.82
+FC,China,Jilin,2007,-2,"Cold spot, 95%",121,206,58.74
+FC,China,Jilin,2007,-1,"Cold spot, 90%",19,206,9.22
+FC,China,Jilin,2007,0,Not significant,15,206,7.28
+FC,China,Jilin,2007,1,"Hot spot, 90%",0,206,0.0
+FC,China,Jilin,2007,2,"Hot spot, 95%",0,206,0.0
+FC,China,Jilin,2007,3,"Hot spot, 99%",4,206,1.94
+FC,China,Jilin,2008,-3,"Cold spot, 99%",9,206,4.37
+FC,China,Jilin,2008,-2,"Cold spot, 95%",111,206,53.88
+FC,China,Jilin,2008,-1,"Cold spot, 90%",24,206,11.65
+FC,China,Jilin,2008,0,Not significant,51,206,24.76
+FC,China,Jilin,2008,1,"Hot spot, 90%",1,206,0.49
+FC,China,Jilin,2008,2,"Hot spot, 95%",1,206,0.49
+FC,China,Jilin,2008,3,"Hot spot, 99%",9,206,4.37
+FC,China,Jilin,2009,-3,"Cold spot, 99%",0,206,0.0
+FC,China,Jilin,2009,-2,"Cold spot, 95%",85,206,41.26
+FC,China,Jilin,2009,-1,"Cold spot, 90%",22,206,10.68
+FC,China,Jilin,2009,0,Not significant,87,206,42.23
+FC,China,Jilin,2009,1,"Hot spot, 90%",0,206,0.0
+FC,China,Jilin,2009,2,"Hot spot, 95%",0,206,0.0
+FC,China,Jilin,2009,3,"Hot spot, 99%",12,206,5.83
+FC,China,Jilin,2010,-3,"Cold spot, 99%",21,206,10.19
+FC,China,Jilin,2010,-2,"Cold spot, 95%",109,206,52.91
+FC,China,Jilin,2010,-1,"Cold spot, 90%",29,206,14.08
+FC,China,Jilin,2010,0,Not significant,38,206,18.45
+FC,China,Jilin,2010,1,"Hot spot, 90%",2,206,0.97
+FC,China,Jilin,2010,2,"Hot spot, 95%",2,206,0.97
+FC,China,Jilin,2010,3,"Hot spot, 99%",5,206,2.43
+FC,China,Jilin,2011,-3,"Cold spot, 99%",91,206,44.17
+FC,China,Jilin,2011,-2,"Cold spot, 95%",92,206,44.66
+FC,China,Jilin,2011,-1,"Cold spot, 90%",4,206,1.94
+FC,China,Jilin,2011,0,Not significant,14,206,6.8
+FC,China,Jilin,2011,1,"Hot spot, 90%",1,206,0.49
+FC,China,Jilin,2011,2,"Hot spot, 95%",1,206,0.49
+FC,China,Jilin,2011,3,"Hot spot, 99%",3,206,1.46
+FC,China,Jilin,2012,-3,"Cold spot, 99%",92,206,44.66
+FC,China,Jilin,2012,-2,"Cold spot, 95%",88,206,42.72
+FC,China,Jilin,2012,-1,"Cold spot, 90%",5,206,2.43
+FC,China,Jilin,2012,0,Not significant,14,206,6.8
+FC,China,Jilin,2012,1,"Hot spot, 90%",3,206,1.46
+FC,China,Jilin,2012,2,"Hot spot, 95%",2,206,0.97
+FC,China,Jilin,2012,3,"Hot spot, 99%",2,206,0.97
+FC,China,Jilin,2013,-3,"Cold spot, 99%",93,206,45.15
+FC,China,Jilin,2013,-2,"Cold spot, 95%",97,206,47.09
+FC,China,Jilin,2013,-1,"Cold spot, 90%",3,206,1.46
+FC,China,Jilin,2013,0,Not significant,13,206,6.31
+FC,China,Jilin,2013,1,"Hot spot, 90%",0,206,0.0
+FC,China,Jilin,2013,2,"Hot spot, 95%",0,206,0.0
+FC,China,Jilin,2013,3,"Hot spot, 99%",0,206,0.0
+FC,China,Jilin,2014,-3,"Cold spot, 99%",4,206,1.94
+FC,China,Jilin,2014,-2,"Cold spot, 95%",154,206,74.76
+FC,China,Jilin,2014,-1,"Cold spot, 90%",28,206,13.59
+FC,China,Jilin,2014,0,Not significant,14,206,6.8
+FC,China,Jilin,2014,1,"Hot spot, 90%",2,206,0.97
+FC,China,Jilin,2014,2,"Hot spot, 95%",0,206,0.0
+FC,China,Jilin,2014,3,"Hot spot, 99%",4,206,1.94
+FC,China,Jilin,2015,-3,"Cold spot, 99%",2,206,0.97
+FC,China,Jilin,2015,-2,"Cold spot, 95%",126,206,61.17
+FC,China,Jilin,2015,-1,"Cold spot, 90%",37,206,17.96
+FC,China,Jilin,2015,0,Not significant,33,206,16.02
+FC,China,Jilin,2015,1,"Hot spot, 90%",2,206,0.97
+FC,China,Jilin,2015,2,"Hot spot, 95%",2,206,0.97
+FC,China,Jilin,2015,3,"Hot spot, 99%",4,206,1.94
+FC,China,Jilin,2016,-3,"Cold spot, 99%",70,206,33.98
+FC,China,Jilin,2016,-2,"Cold spot, 95%",100,206,48.54
+FC,China,Jilin,2016,-1,"Cold spot, 90%",18,206,8.74
+FC,China,Jilin,2016,0,Not significant,18,206,8.74
+FC,China,Jilin,2016,1,"Hot spot, 90%",0,206,0.0
+FC,China,Jilin,2016,2,"Hot spot, 95%",0,206,0.0
+FC,China,Jilin,2016,3,"Hot spot, 99%",0,206,0.0
+FC,China,Jilin,2017,-3,"Cold spot, 99%",82,206,39.81
+FC,China,Jilin,2017,-2,"Cold spot, 95%",103,206,50.0
+FC,China,Jilin,2017,-1,"Cold spot, 90%",5,206,2.43
+FC,China,Jilin,2017,0,Not significant,16,206,7.77
+FC,China,Jilin,2017,1,"Hot spot, 90%",0,206,0.0
+FC,China,Jilin,2017,2,"Hot spot, 95%",0,206,0.0
+FC,China,Jilin,2017,3,"Hot spot, 99%",0,206,0.0
+FC,China,Jilin,2018,-3,"Cold spot, 99%",74,206,35.92
+FC,China,Jilin,2018,-2,"Cold spot, 95%",98,206,47.57
+FC,China,Jilin,2018,-1,"Cold spot, 90%",7,206,3.4
+FC,China,Jilin,2018,0,Not significant,24,206,11.65
+FC,China,Jilin,2018,1,"Hot spot, 90%",0,206,0.0
+FC,China,Jilin,2018,2,"Hot spot, 95%",3,206,1.46
+FC,China,Jilin,2018,3,"Hot spot, 99%",0,206,0.0
+FC,China,Jilin,2019,-3,"Cold spot, 99%",90,206,43.69
+FC,China,Jilin,2019,-2,"Cold spot, 95%",95,206,46.12
+FC,China,Jilin,2019,-1,"Cold spot, 90%",2,206,0.97
+FC,China,Jilin,2019,0,Not significant,14,206,6.8
+FC,China,Jilin,2019,1,"Hot spot, 90%",0,206,0.0
+FC,China,Jilin,2019,2,"Hot spot, 95%",1,206,0.49
+FC,China,Jilin,2019,3,"Hot spot, 99%",4,206,1.94
+FC,China,Jilin,2020,-3,"Cold spot, 99%",98,206,47.57
+FC,China,Jilin,2020,-2,"Cold spot, 95%",91,206,44.17
+FC,China,Jilin,2020,-1,"Cold spot, 90%",3,206,1.46
+FC,China,Jilin,2020,0,Not significant,10,206,4.85
+FC,China,Jilin,2020,1,"Hot spot, 90%",0,206,0.0
+FC,China,Jilin,2020,2,"Hot spot, 95%",0,206,0.0
+FC,China,Jilin,2020,3,"Hot spot, 99%",4,206,1.94
+FC,China,Jilin,2021,-3,"Cold spot, 99%",106,206,51.46
+FC,China,Jilin,2021,-2,"Cold spot, 95%",92,206,44.66
+FC,China,Jilin,2021,-1,"Cold spot, 90%",2,206,0.97
+FC,China,Jilin,2021,0,Not significant,6,206,2.91
+FC,China,Jilin,2021,1,"Hot spot, 90%",0,206,0.0
+FC,China,Jilin,2021,2,"Hot spot, 95%",0,206,0.0
+FC,China,Jilin,2021,3,"Hot spot, 99%",0,206,0.0
+FC,China,Jilin,2022,-3,"Cold spot, 99%",104,206,50.49
+FC,China,Jilin,2022,-2,"Cold spot, 95%",91,206,44.17
+FC,China,Jilin,2022,-1,"Cold spot, 90%",3,206,1.46
+FC,China,Jilin,2022,0,Not significant,8,206,3.88
+FC,China,Jilin,2022,1,"Hot spot, 90%",0,206,0.0
+FC,China,Jilin,2022,2,"Hot spot, 95%",0,206,0.0
+FC,China,Jilin,2022,3,"Hot spot, 99%",0,206,0.0
+FC,China,Jilin,2023,-3,"Cold spot, 99%",100,206,48.54
+FC,China,Jilin,2023,-2,"Cold spot, 95%",97,206,47.09
+FC,China,Jilin,2023,-1,"Cold spot, 90%",3,206,1.46
+FC,China,Jilin,2023,0,Not significant,6,206,2.91
+FC,China,Jilin,2023,1,"Hot spot, 90%",0,206,0.0
+FC,China,Jilin,2023,2,"Hot spot, 95%",0,206,0.0
+FC,China,Jilin,2023,3,"Hot spot, 99%",0,206,0.0
+FC,China,Jilin,2024,-3,"Cold spot, 99%",89,206,43.2
+FC,China,Jilin,2024,-2,"Cold spot, 95%",96,206,46.6
+FC,China,Jilin,2024,-1,"Cold spot, 90%",20,206,9.71
+FC,China,Jilin,2024,0,Not significant,1,206,0.49
+FC,China,Jilin,2024,1,"Hot spot, 90%",0,206,0.0
+FC,China,Jilin,2024,2,"Hot spot, 95%",0,206,0.0
+FC,China,Jilin,2024,3,"Hot spot, 99%",0,206,0.0
+FC,China,Jilin,2025,-3,"Cold spot, 99%",101,206,49.03
+FC,China,Jilin,2025,-2,"Cold spot, 95%",86,206,41.75
+FC,China,Jilin,2025,-1,"Cold spot, 90%",18,206,8.74
+FC,China,Jilin,2025,0,Not significant,1,206,0.49
+FC,China,Jilin,2025,1,"Hot spot, 90%",0,206,0.0
+FC,China,Jilin,2025,2,"Hot spot, 95%",0,206,0.0
+FC,China,Jilin,2025,3,"Hot spot, 99%",0,206,0.0
+FC,North Korea,Chagang-do,2001,-3,"Cold spot, 99%",11,155,7.1
+FC,North Korea,Chagang-do,2001,-2,"Cold spot, 95%",52,155,33.55
+FC,North Korea,Chagang-do,2001,-1,"Cold spot, 90%",15,155,9.68
+FC,North Korea,Chagang-do,2001,0,Not significant,77,155,49.68
+FC,North Korea,Chagang-do,2001,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2001,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2001,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2002,-3,"Cold spot, 99%",94,155,60.65
+FC,North Korea,Chagang-do,2002,-2,"Cold spot, 95%",41,155,26.45
+FC,North Korea,Chagang-do,2002,-1,"Cold spot, 90%",14,155,9.03
+FC,North Korea,Chagang-do,2002,0,Not significant,6,155,3.87
+FC,North Korea,Chagang-do,2002,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2002,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2002,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2003,-3,"Cold spot, 99%",129,155,83.23
+FC,North Korea,Chagang-do,2003,-2,"Cold spot, 95%",26,155,16.77
+FC,North Korea,Chagang-do,2003,-1,"Cold spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2003,0,Not significant,0,155,0.0
+FC,North Korea,Chagang-do,2003,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2003,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2003,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2004,-3,"Cold spot, 99%",95,155,61.29
+FC,North Korea,Chagang-do,2004,-2,"Cold spot, 95%",57,155,36.77
+FC,North Korea,Chagang-do,2004,-1,"Cold spot, 90%",3,155,1.94
+FC,North Korea,Chagang-do,2004,0,Not significant,0,155,0.0
+FC,North Korea,Chagang-do,2004,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2004,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2004,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2005,-3,"Cold spot, 99%",97,155,62.58
+FC,North Korea,Chagang-do,2005,-2,"Cold spot, 95%",52,155,33.55
+FC,North Korea,Chagang-do,2005,-1,"Cold spot, 90%",6,155,3.87
+FC,North Korea,Chagang-do,2005,0,Not significant,0,155,0.0
+FC,North Korea,Chagang-do,2005,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2005,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2005,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2006,-3,"Cold spot, 99%",117,155,75.48
+FC,North Korea,Chagang-do,2006,-2,"Cold spot, 95%",38,155,24.52
+FC,North Korea,Chagang-do,2006,-1,"Cold spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2006,0,Not significant,0,155,0.0
+FC,North Korea,Chagang-do,2006,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2006,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2006,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2007,-3,"Cold spot, 99%",89,155,57.42
+FC,North Korea,Chagang-do,2007,-2,"Cold spot, 95%",66,155,42.58
+FC,North Korea,Chagang-do,2007,-1,"Cold spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2007,0,Not significant,0,155,0.0
+FC,North Korea,Chagang-do,2007,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2007,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2007,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2008,-3,"Cold spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2008,-2,"Cold spot, 95%",5,155,3.23
+FC,North Korea,Chagang-do,2008,-1,"Cold spot, 90%",23,155,14.84
+FC,North Korea,Chagang-do,2008,0,Not significant,127,155,81.94
+FC,North Korea,Chagang-do,2008,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2008,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2008,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2009,-3,"Cold spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2009,-2,"Cold spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2009,-1,"Cold spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2009,0,Not significant,155,155,100.0
+FC,North Korea,Chagang-do,2009,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2009,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2009,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2010,-3,"Cold spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2010,-2,"Cold spot, 95%",2,155,1.29
+FC,North Korea,Chagang-do,2010,-1,"Cold spot, 90%",20,155,12.9
+FC,North Korea,Chagang-do,2010,0,Not significant,133,155,85.81
+FC,North Korea,Chagang-do,2010,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2010,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2010,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2011,-3,"Cold spot, 99%",83,155,53.55
+FC,North Korea,Chagang-do,2011,-2,"Cold spot, 95%",48,155,30.97
+FC,North Korea,Chagang-do,2011,-1,"Cold spot, 90%",15,155,9.68
+FC,North Korea,Chagang-do,2011,0,Not significant,9,155,5.81
+FC,North Korea,Chagang-do,2011,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2011,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2011,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2012,-3,"Cold spot, 99%",83,155,53.55
+FC,North Korea,Chagang-do,2012,-2,"Cold spot, 95%",46,155,29.68
+FC,North Korea,Chagang-do,2012,-1,"Cold spot, 90%",18,155,11.61
+FC,North Korea,Chagang-do,2012,0,Not significant,8,155,5.16
+FC,North Korea,Chagang-do,2012,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2012,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2012,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2013,-3,"Cold spot, 99%",115,155,74.19
+FC,North Korea,Chagang-do,2013,-2,"Cold spot, 95%",38,155,24.52
+FC,North Korea,Chagang-do,2013,-1,"Cold spot, 90%",2,155,1.29
+FC,North Korea,Chagang-do,2013,0,Not significant,0,155,0.0
+FC,North Korea,Chagang-do,2013,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2013,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2013,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2014,-3,"Cold spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2014,-2,"Cold spot, 95%",34,155,21.94
+FC,North Korea,Chagang-do,2014,-1,"Cold spot, 90%",24,155,15.48
+FC,North Korea,Chagang-do,2014,0,Not significant,97,155,62.58
+FC,North Korea,Chagang-do,2014,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2014,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2014,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2015,-3,"Cold spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2015,-2,"Cold spot, 95%",32,155,20.65
+FC,North Korea,Chagang-do,2015,-1,"Cold spot, 90%",17,155,10.97
+FC,North Korea,Chagang-do,2015,0,Not significant,106,155,68.39
+FC,North Korea,Chagang-do,2015,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2015,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2015,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2016,-3,"Cold spot, 99%",127,155,81.94
+FC,North Korea,Chagang-do,2016,-2,"Cold spot, 95%",28,155,18.06
+FC,North Korea,Chagang-do,2016,-1,"Cold spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2016,0,Not significant,0,155,0.0
+FC,North Korea,Chagang-do,2016,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2016,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2016,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2017,-3,"Cold spot, 99%",148,155,95.48
+FC,North Korea,Chagang-do,2017,-2,"Cold spot, 95%",7,155,4.52
+FC,North Korea,Chagang-do,2017,-1,"Cold spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2017,0,Not significant,0,155,0.0
+FC,North Korea,Chagang-do,2017,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2017,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2017,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2018,-3,"Cold spot, 99%",142,155,91.61
+FC,North Korea,Chagang-do,2018,-2,"Cold spot, 95%",13,155,8.39
+FC,North Korea,Chagang-do,2018,-1,"Cold spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2018,0,Not significant,0,155,0.0
+FC,North Korea,Chagang-do,2018,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2018,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2018,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2019,-3,"Cold spot, 99%",137,155,88.39
+FC,North Korea,Chagang-do,2019,-2,"Cold spot, 95%",18,155,11.61
+FC,North Korea,Chagang-do,2019,-1,"Cold spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2019,0,Not significant,0,155,0.0
+FC,North Korea,Chagang-do,2019,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2019,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2019,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2020,-3,"Cold spot, 99%",142,155,91.61
+FC,North Korea,Chagang-do,2020,-2,"Cold spot, 95%",13,155,8.39
+FC,North Korea,Chagang-do,2020,-1,"Cold spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2020,0,Not significant,0,155,0.0
+FC,North Korea,Chagang-do,2020,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2020,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2020,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2021,-3,"Cold spot, 99%",153,155,98.71
+FC,North Korea,Chagang-do,2021,-2,"Cold spot, 95%",2,155,1.29
+FC,North Korea,Chagang-do,2021,-1,"Cold spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2021,0,Not significant,0,155,0.0
+FC,North Korea,Chagang-do,2021,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2021,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2021,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2022,-3,"Cold spot, 99%",155,155,100.0
+FC,North Korea,Chagang-do,2022,-2,"Cold spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2022,-1,"Cold spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2022,0,Not significant,0,155,0.0
+FC,North Korea,Chagang-do,2022,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2022,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2022,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2023,-3,"Cold spot, 99%",155,155,100.0
+FC,North Korea,Chagang-do,2023,-2,"Cold spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2023,-1,"Cold spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2023,0,Not significant,0,155,0.0
+FC,North Korea,Chagang-do,2023,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2023,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2023,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2024,-3,"Cold spot, 99%",152,155,98.06
+FC,North Korea,Chagang-do,2024,-2,"Cold spot, 95%",3,155,1.94
+FC,North Korea,Chagang-do,2024,-1,"Cold spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2024,0,Not significant,0,155,0.0
+FC,North Korea,Chagang-do,2024,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2024,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2024,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Chagang-do,2025,-3,"Cold spot, 99%",155,155,100.0
+FC,North Korea,Chagang-do,2025,-2,"Cold spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2025,-1,"Cold spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2025,0,Not significant,0,155,0.0
+FC,North Korea,Chagang-do,2025,1,"Hot spot, 90%",0,155,0.0
+FC,North Korea,Chagang-do,2025,2,"Hot spot, 95%",0,155,0.0
+FC,North Korea,Chagang-do,2025,3,"Hot spot, 99%",0,155,0.0
+FC,North Korea,Hamgyong-bukto,2001,-3,"Cold spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2001,-2,"Cold spot, 95%",68,143,47.55
+FC,North Korea,Hamgyong-bukto,2001,-1,"Cold spot, 90%",30,143,20.98
+FC,North Korea,Hamgyong-bukto,2001,0,Not significant,45,143,31.47
+FC,North Korea,Hamgyong-bukto,2001,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2001,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2001,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2002,-3,"Cold spot, 99%",99,143,69.23
+FC,North Korea,Hamgyong-bukto,2002,-2,"Cold spot, 95%",36,143,25.17
+FC,North Korea,Hamgyong-bukto,2002,-1,"Cold spot, 90%",4,143,2.8
+FC,North Korea,Hamgyong-bukto,2002,0,Not significant,4,143,2.8
+FC,North Korea,Hamgyong-bukto,2002,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2002,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2002,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2003,-3,"Cold spot, 99%",108,143,75.52
+FC,North Korea,Hamgyong-bukto,2003,-2,"Cold spot, 95%",25,143,17.48
+FC,North Korea,Hamgyong-bukto,2003,-1,"Cold spot, 90%",5,143,3.5
+FC,North Korea,Hamgyong-bukto,2003,0,Not significant,5,143,3.5
+FC,North Korea,Hamgyong-bukto,2003,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2003,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2003,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2004,-3,"Cold spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2004,-2,"Cold spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2004,-1,"Cold spot, 90%",4,143,2.8
+FC,North Korea,Hamgyong-bukto,2004,0,Not significant,139,143,97.2
+FC,North Korea,Hamgyong-bukto,2004,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2004,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2004,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2005,-3,"Cold spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2005,-2,"Cold spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2005,-1,"Cold spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2005,0,Not significant,122,143,85.31
+FC,North Korea,Hamgyong-bukto,2005,1,"Hot spot, 90%",15,143,10.49
+FC,North Korea,Hamgyong-bukto,2005,2,"Hot spot, 95%",4,143,2.8
+FC,North Korea,Hamgyong-bukto,2005,3,"Hot spot, 99%",2,143,1.4
+FC,North Korea,Hamgyong-bukto,2006,-3,"Cold spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2006,-2,"Cold spot, 95%",16,143,11.19
+FC,North Korea,Hamgyong-bukto,2006,-1,"Cold spot, 90%",25,143,17.48
+FC,North Korea,Hamgyong-bukto,2006,0,Not significant,102,143,71.33
+FC,North Korea,Hamgyong-bukto,2006,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2006,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2006,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2007,-3,"Cold spot, 99%",60,143,41.96
+FC,North Korea,Hamgyong-bukto,2007,-2,"Cold spot, 95%",46,143,32.17
+FC,North Korea,Hamgyong-bukto,2007,-1,"Cold spot, 90%",17,143,11.89
+FC,North Korea,Hamgyong-bukto,2007,0,Not significant,20,143,13.99
+FC,North Korea,Hamgyong-bukto,2007,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2007,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2007,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2008,-3,"Cold spot, 99%",21,143,14.69
+FC,North Korea,Hamgyong-bukto,2008,-2,"Cold spot, 95%",69,143,48.25
+FC,North Korea,Hamgyong-bukto,2008,-1,"Cold spot, 90%",14,143,9.79
+FC,North Korea,Hamgyong-bukto,2008,0,Not significant,39,143,27.27
+FC,North Korea,Hamgyong-bukto,2008,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2008,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2008,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2009,-3,"Cold spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2009,-2,"Cold spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2009,-1,"Cold spot, 90%",1,143,0.7
+FC,North Korea,Hamgyong-bukto,2009,0,Not significant,142,143,99.3
+FC,North Korea,Hamgyong-bukto,2009,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2009,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2009,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2010,-3,"Cold spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2010,-2,"Cold spot, 95%",22,143,15.38
+FC,North Korea,Hamgyong-bukto,2010,-1,"Cold spot, 90%",45,143,31.47
+FC,North Korea,Hamgyong-bukto,2010,0,Not significant,76,143,53.15
+FC,North Korea,Hamgyong-bukto,2010,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2010,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2010,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2011,-3,"Cold spot, 99%",5,143,3.5
+FC,North Korea,Hamgyong-bukto,2011,-2,"Cold spot, 95%",38,143,26.57
+FC,North Korea,Hamgyong-bukto,2011,-1,"Cold spot, 90%",33,143,23.08
+FC,North Korea,Hamgyong-bukto,2011,0,Not significant,67,143,46.85
+FC,North Korea,Hamgyong-bukto,2011,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2011,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2011,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2012,-3,"Cold spot, 99%",3,143,2.1
+FC,North Korea,Hamgyong-bukto,2012,-2,"Cold spot, 95%",34,143,23.78
+FC,North Korea,Hamgyong-bukto,2012,-1,"Cold spot, 90%",33,143,23.08
+FC,North Korea,Hamgyong-bukto,2012,0,Not significant,73,143,51.05
+FC,North Korea,Hamgyong-bukto,2012,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2012,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2012,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2013,-3,"Cold spot, 99%",109,143,76.22
+FC,North Korea,Hamgyong-bukto,2013,-2,"Cold spot, 95%",32,143,22.38
+FC,North Korea,Hamgyong-bukto,2013,-1,"Cold spot, 90%",2,143,1.4
+FC,North Korea,Hamgyong-bukto,2013,0,Not significant,0,143,0.0
+FC,North Korea,Hamgyong-bukto,2013,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2013,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2013,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2014,-3,"Cold spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2014,-2,"Cold spot, 95%",5,143,3.5
+FC,North Korea,Hamgyong-bukto,2014,-1,"Cold spot, 90%",38,143,26.57
+FC,North Korea,Hamgyong-bukto,2014,0,Not significant,100,143,69.93
+FC,North Korea,Hamgyong-bukto,2014,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2014,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2014,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2015,-3,"Cold spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2015,-2,"Cold spot, 95%",1,143,0.7
+FC,North Korea,Hamgyong-bukto,2015,-1,"Cold spot, 90%",3,143,2.1
+FC,North Korea,Hamgyong-bukto,2015,0,Not significant,125,143,87.41
+FC,North Korea,Hamgyong-bukto,2015,1,"Hot spot, 90%",5,143,3.5
+FC,North Korea,Hamgyong-bukto,2015,2,"Hot spot, 95%",9,143,6.29
+FC,North Korea,Hamgyong-bukto,2015,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2016,-3,"Cold spot, 99%",3,143,2.1
+FC,North Korea,Hamgyong-bukto,2016,-2,"Cold spot, 95%",35,143,24.48
+FC,North Korea,Hamgyong-bukto,2016,-1,"Cold spot, 90%",8,143,5.59
+FC,North Korea,Hamgyong-bukto,2016,0,Not significant,97,143,67.83
+FC,North Korea,Hamgyong-bukto,2016,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2016,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2016,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2017,-3,"Cold spot, 99%",11,143,7.69
+FC,North Korea,Hamgyong-bukto,2017,-2,"Cold spot, 95%",77,143,53.85
+FC,North Korea,Hamgyong-bukto,2017,-1,"Cold spot, 90%",44,143,30.77
+FC,North Korea,Hamgyong-bukto,2017,0,Not significant,11,143,7.69
+FC,North Korea,Hamgyong-bukto,2017,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2017,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2017,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2018,-3,"Cold spot, 99%",4,143,2.8
+FC,North Korea,Hamgyong-bukto,2018,-2,"Cold spot, 95%",32,143,22.38
+FC,North Korea,Hamgyong-bukto,2018,-1,"Cold spot, 90%",33,143,23.08
+FC,North Korea,Hamgyong-bukto,2018,0,Not significant,74,143,51.75
+FC,North Korea,Hamgyong-bukto,2018,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2018,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2018,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2019,-3,"Cold spot, 99%",69,143,48.25
+FC,North Korea,Hamgyong-bukto,2019,-2,"Cold spot, 95%",48,143,33.57
+FC,North Korea,Hamgyong-bukto,2019,-1,"Cold spot, 90%",16,143,11.19
+FC,North Korea,Hamgyong-bukto,2019,0,Not significant,10,143,6.99
+FC,North Korea,Hamgyong-bukto,2019,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2019,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2019,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2020,-3,"Cold spot, 99%",107,143,74.83
+FC,North Korea,Hamgyong-bukto,2020,-2,"Cold spot, 95%",33,143,23.08
+FC,North Korea,Hamgyong-bukto,2020,-1,"Cold spot, 90%",3,143,2.1
+FC,North Korea,Hamgyong-bukto,2020,0,Not significant,0,143,0.0
+FC,North Korea,Hamgyong-bukto,2020,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2020,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2020,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2021,-3,"Cold spot, 99%",135,143,94.41
+FC,North Korea,Hamgyong-bukto,2021,-2,"Cold spot, 95%",8,143,5.59
+FC,North Korea,Hamgyong-bukto,2021,-1,"Cold spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2021,0,Not significant,0,143,0.0
+FC,North Korea,Hamgyong-bukto,2021,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2021,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2021,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2022,-3,"Cold spot, 99%",131,143,91.61
+FC,North Korea,Hamgyong-bukto,2022,-2,"Cold spot, 95%",12,143,8.39
+FC,North Korea,Hamgyong-bukto,2022,-1,"Cold spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2022,0,Not significant,0,143,0.0
+FC,North Korea,Hamgyong-bukto,2022,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2022,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2022,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2023,-3,"Cold spot, 99%",125,143,87.41
+FC,North Korea,Hamgyong-bukto,2023,-2,"Cold spot, 95%",18,143,12.59
+FC,North Korea,Hamgyong-bukto,2023,-1,"Cold spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2023,0,Not significant,0,143,0.0
+FC,North Korea,Hamgyong-bukto,2023,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2023,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2023,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2024,-3,"Cold spot, 99%",55,143,38.46
+FC,North Korea,Hamgyong-bukto,2024,-2,"Cold spot, 95%",86,143,60.14
+FC,North Korea,Hamgyong-bukto,2024,-1,"Cold spot, 90%",2,143,1.4
+FC,North Korea,Hamgyong-bukto,2024,0,Not significant,0,143,0.0
+FC,North Korea,Hamgyong-bukto,2024,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2024,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2024,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2025,-3,"Cold spot, 99%",93,143,65.03
+FC,North Korea,Hamgyong-bukto,2025,-2,"Cold spot, 95%",49,143,34.27
+FC,North Korea,Hamgyong-bukto,2025,-1,"Cold spot, 90%",1,143,0.7
+FC,North Korea,Hamgyong-bukto,2025,0,Not significant,0,143,0.0
+FC,North Korea,Hamgyong-bukto,2025,1,"Hot spot, 90%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2025,2,"Hot spot, 95%",0,143,0.0
+FC,North Korea,Hamgyong-bukto,2025,3,"Hot spot, 99%",0,143,0.0
+FC,North Korea,Yanggang-do,2001,-3,"Cold spot, 99%",40,135,29.63
+FC,North Korea,Yanggang-do,2001,-2,"Cold spot, 95%",92,135,68.15
+FC,North Korea,Yanggang-do,2001,-1,"Cold spot, 90%",3,135,2.22
+FC,North Korea,Yanggang-do,2001,0,Not significant,0,135,0.0
+FC,North Korea,Yanggang-do,2001,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2001,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2001,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2002,-3,"Cold spot, 99%",134,135,99.26
+FC,North Korea,Yanggang-do,2002,-2,"Cold spot, 95%",1,135,0.74
+FC,North Korea,Yanggang-do,2002,-1,"Cold spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2002,0,Not significant,0,135,0.0
+FC,North Korea,Yanggang-do,2002,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2002,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2002,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2003,-3,"Cold spot, 99%",133,135,98.52
+FC,North Korea,Yanggang-do,2003,-2,"Cold spot, 95%",2,135,1.48
+FC,North Korea,Yanggang-do,2003,-1,"Cold spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2003,0,Not significant,0,135,0.0
+FC,North Korea,Yanggang-do,2003,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2003,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2003,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2004,-3,"Cold spot, 99%",83,135,61.48
+FC,North Korea,Yanggang-do,2004,-2,"Cold spot, 95%",28,135,20.74
+FC,North Korea,Yanggang-do,2004,-1,"Cold spot, 90%",21,135,15.56
+FC,North Korea,Yanggang-do,2004,0,Not significant,3,135,2.22
+FC,North Korea,Yanggang-do,2004,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2004,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2004,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2005,-3,"Cold spot, 99%",62,135,45.93
+FC,North Korea,Yanggang-do,2005,-2,"Cold spot, 95%",30,135,22.22
+FC,North Korea,Yanggang-do,2005,-1,"Cold spot, 90%",12,135,8.89
+FC,North Korea,Yanggang-do,2005,0,Not significant,31,135,22.96
+FC,North Korea,Yanggang-do,2005,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2005,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2005,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2006,-3,"Cold spot, 99%",82,135,60.74
+FC,North Korea,Yanggang-do,2006,-2,"Cold spot, 95%",53,135,39.26
+FC,North Korea,Yanggang-do,2006,-1,"Cold spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2006,0,Not significant,0,135,0.0
+FC,North Korea,Yanggang-do,2006,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2006,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2006,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2007,-3,"Cold spot, 99%",128,135,94.81
+FC,North Korea,Yanggang-do,2007,-2,"Cold spot, 95%",7,135,5.19
+FC,North Korea,Yanggang-do,2007,-1,"Cold spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2007,0,Not significant,0,135,0.0
+FC,North Korea,Yanggang-do,2007,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2007,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2007,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2008,-3,"Cold spot, 99%",28,135,20.74
+FC,North Korea,Yanggang-do,2008,-2,"Cold spot, 95%",87,135,64.44
+FC,North Korea,Yanggang-do,2008,-1,"Cold spot, 90%",7,135,5.19
+FC,North Korea,Yanggang-do,2008,0,Not significant,13,135,9.63
+FC,North Korea,Yanggang-do,2008,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2008,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2008,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2009,-3,"Cold spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2009,-2,"Cold spot, 95%",4,135,2.96
+FC,North Korea,Yanggang-do,2009,-1,"Cold spot, 90%",1,135,0.74
+FC,North Korea,Yanggang-do,2009,0,Not significant,130,135,96.3
+FC,North Korea,Yanggang-do,2009,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2009,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2009,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2010,-3,"Cold spot, 99%",5,135,3.7
+FC,North Korea,Yanggang-do,2010,-2,"Cold spot, 95%",24,135,17.78
+FC,North Korea,Yanggang-do,2010,-1,"Cold spot, 90%",8,135,5.93
+FC,North Korea,Yanggang-do,2010,0,Not significant,98,135,72.59
+FC,North Korea,Yanggang-do,2010,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2010,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2010,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2011,-3,"Cold spot, 99%",97,135,71.85
+FC,North Korea,Yanggang-do,2011,-2,"Cold spot, 95%",26,135,19.26
+FC,North Korea,Yanggang-do,2011,-1,"Cold spot, 90%",12,135,8.89
+FC,North Korea,Yanggang-do,2011,0,Not significant,0,135,0.0
+FC,North Korea,Yanggang-do,2011,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2011,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2011,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2012,-3,"Cold spot, 99%",91,135,67.41
+FC,North Korea,Yanggang-do,2012,-2,"Cold spot, 95%",18,135,13.33
+FC,North Korea,Yanggang-do,2012,-1,"Cold spot, 90%",25,135,18.52
+FC,North Korea,Yanggang-do,2012,0,Not significant,1,135,0.74
+FC,North Korea,Yanggang-do,2012,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2012,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2012,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2013,-3,"Cold spot, 99%",129,135,95.56
+FC,North Korea,Yanggang-do,2013,-2,"Cold spot, 95%",6,135,4.44
+FC,North Korea,Yanggang-do,2013,-1,"Cold spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2013,0,Not significant,0,135,0.0
+FC,North Korea,Yanggang-do,2013,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2013,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2013,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2014,-3,"Cold spot, 99%",2,135,1.48
+FC,North Korea,Yanggang-do,2014,-2,"Cold spot, 95%",25,135,18.52
+FC,North Korea,Yanggang-do,2014,-1,"Cold spot, 90%",35,135,25.93
+FC,North Korea,Yanggang-do,2014,0,Not significant,73,135,54.07
+FC,North Korea,Yanggang-do,2014,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2014,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2014,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2015,-3,"Cold spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2015,-2,"Cold spot, 95%",19,135,14.07
+FC,North Korea,Yanggang-do,2015,-1,"Cold spot, 90%",35,135,25.93
+FC,North Korea,Yanggang-do,2015,0,Not significant,81,135,60.0
+FC,North Korea,Yanggang-do,2015,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2015,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2015,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2016,-3,"Cold spot, 99%",91,135,67.41
+FC,North Korea,Yanggang-do,2016,-2,"Cold spot, 95%",15,135,11.11
+FC,North Korea,Yanggang-do,2016,-1,"Cold spot, 90%",7,135,5.19
+FC,North Korea,Yanggang-do,2016,0,Not significant,22,135,16.3
+FC,North Korea,Yanggang-do,2016,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2016,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2016,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2017,-3,"Cold spot, 99%",124,135,91.85
+FC,North Korea,Yanggang-do,2017,-2,"Cold spot, 95%",11,135,8.15
+FC,North Korea,Yanggang-do,2017,-1,"Cold spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2017,0,Not significant,0,135,0.0
+FC,North Korea,Yanggang-do,2017,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2017,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2017,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2018,-3,"Cold spot, 99%",116,135,85.93
+FC,North Korea,Yanggang-do,2018,-2,"Cold spot, 95%",18,135,13.33
+FC,North Korea,Yanggang-do,2018,-1,"Cold spot, 90%",1,135,0.74
+FC,North Korea,Yanggang-do,2018,0,Not significant,0,135,0.0
+FC,North Korea,Yanggang-do,2018,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2018,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2018,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2019,-3,"Cold spot, 99%",124,135,91.85
+FC,North Korea,Yanggang-do,2019,-2,"Cold spot, 95%",11,135,8.15
+FC,North Korea,Yanggang-do,2019,-1,"Cold spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2019,0,Not significant,0,135,0.0
+FC,North Korea,Yanggang-do,2019,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2019,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2019,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2020,-3,"Cold spot, 99%",134,135,99.26
+FC,North Korea,Yanggang-do,2020,-2,"Cold spot, 95%",1,135,0.74
+FC,North Korea,Yanggang-do,2020,-1,"Cold spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2020,0,Not significant,0,135,0.0
+FC,North Korea,Yanggang-do,2020,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2020,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2020,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2021,-3,"Cold spot, 99%",135,135,100.0
+FC,North Korea,Yanggang-do,2021,-2,"Cold spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2021,-1,"Cold spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2021,0,Not significant,0,135,0.0
+FC,North Korea,Yanggang-do,2021,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2021,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2021,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2022,-3,"Cold spot, 99%",135,135,100.0
+FC,North Korea,Yanggang-do,2022,-2,"Cold spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2022,-1,"Cold spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2022,0,Not significant,0,135,0.0
+FC,North Korea,Yanggang-do,2022,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2022,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2022,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2023,-3,"Cold spot, 99%",135,135,100.0
+FC,North Korea,Yanggang-do,2023,-2,"Cold spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2023,-1,"Cold spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2023,0,Not significant,0,135,0.0
+FC,North Korea,Yanggang-do,2023,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2023,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2023,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2024,-3,"Cold spot, 99%",135,135,100.0
+FC,North Korea,Yanggang-do,2024,-2,"Cold spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2024,-1,"Cold spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2024,0,Not significant,0,135,0.0
+FC,North Korea,Yanggang-do,2024,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2024,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2024,3,"Hot spot, 99%",0,135,0.0
+FC,North Korea,Yanggang-do,2025,-3,"Cold spot, 99%",135,135,100.0
+FC,North Korea,Yanggang-do,2025,-2,"Cold spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2025,-1,"Cold spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2025,0,Not significant,0,135,0.0
+FC,North Korea,Yanggang-do,2025,1,"Hot spot, 90%",0,135,0.0
+FC,North Korea,Yanggang-do,2025,2,"Hot spot, 95%",0,135,0.0
+FC,North Korea,Yanggang-do,2025,3,"Hot spot, 99%",0,135,0.0
+FC,Russia,Khabarovskiy,2001,-3,"Cold spot, 99%",6,1115,0.54
+FC,Russia,Khabarovskiy,2001,-2,"Cold spot, 95%",329,1115,29.51
+FC,Russia,Khabarovskiy,2001,-1,"Cold spot, 90%",154,1115,13.81
+FC,Russia,Khabarovskiy,2001,0,Not significant,470,1115,42.15
+FC,Russia,Khabarovskiy,2001,1,"Hot spot, 90%",28,1115,2.51
+FC,Russia,Khabarovskiy,2001,2,"Hot spot, 95%",66,1115,5.92
+FC,Russia,Khabarovskiy,2001,3,"Hot spot, 99%",62,1115,5.56
+FC,Russia,Khabarovskiy,2002,-3,"Cold spot, 99%",114,1115,10.22
+FC,Russia,Khabarovskiy,2002,-2,"Cold spot, 95%",135,1115,12.11
+FC,Russia,Khabarovskiy,2002,-1,"Cold spot, 90%",71,1115,6.37
+FC,Russia,Khabarovskiy,2002,0,Not significant,703,1115,63.05
+FC,Russia,Khabarovskiy,2002,1,"Hot spot, 90%",18,1115,1.61
+FC,Russia,Khabarovskiy,2002,2,"Hot spot, 95%",30,1115,2.69
+FC,Russia,Khabarovskiy,2002,3,"Hot spot, 99%",44,1115,3.95
+FC,Russia,Khabarovskiy,2003,-3,"Cold spot, 99%",0,1115,0.0
+FC,Russia,Khabarovskiy,2003,-2,"Cold spot, 95%",2,1115,0.18
+FC,Russia,Khabarovskiy,2003,-1,"Cold spot, 90%",7,1115,0.63
+FC,Russia,Khabarovskiy,2003,0,Not significant,363,1115,32.56
+FC,Russia,Khabarovskiy,2003,1,"Hot spot, 90%",33,1115,2.96
+FC,Russia,Khabarovskiy,2003,2,"Hot spot, 95%",80,1115,7.17
+FC,Russia,Khabarovskiy,2003,3,"Hot spot, 99%",630,1115,56.5
+FC,Russia,Khabarovskiy,2004,-3,"Cold spot, 99%",0,1115,0.0
+FC,Russia,Khabarovskiy,2004,-2,"Cold spot, 95%",5,1115,0.45
+FC,Russia,Khabarovskiy,2004,-1,"Cold spot, 90%",14,1115,1.26
+FC,Russia,Khabarovskiy,2004,0,Not significant,247,1115,22.15
+FC,Russia,Khabarovskiy,2004,1,"Hot spot, 90%",34,1115,3.05
+FC,Russia,Khabarovskiy,2004,2,"Hot spot, 95%",81,1115,7.26
+FC,Russia,Khabarovskiy,2004,3,"Hot spot, 99%",734,1115,65.83
+FC,Russia,Khabarovskiy,2005,-3,"Cold spot, 99%",126,1115,11.3
+FC,Russia,Khabarovskiy,2005,-2,"Cold spot, 95%",96,1115,8.61
+FC,Russia,Khabarovskiy,2005,-1,"Cold spot, 90%",41,1115,3.68
+FC,Russia,Khabarovskiy,2005,0,Not significant,429,1115,38.48
+FC,Russia,Khabarovskiy,2005,1,"Hot spot, 90%",41,1115,3.68
+FC,Russia,Khabarovskiy,2005,2,"Hot spot, 95%",74,1115,6.64
+FC,Russia,Khabarovskiy,2005,3,"Hot spot, 99%",308,1115,27.62
+FC,Russia,Khabarovskiy,2006,-3,"Cold spot, 99%",129,1115,11.57
+FC,Russia,Khabarovskiy,2006,-2,"Cold spot, 95%",107,1115,9.6
+FC,Russia,Khabarovskiy,2006,-1,"Cold spot, 90%",34,1115,3.05
+FC,Russia,Khabarovskiy,2006,0,Not significant,492,1115,44.13
+FC,Russia,Khabarovskiy,2006,1,"Hot spot, 90%",26,1115,2.33
+FC,Russia,Khabarovskiy,2006,2,"Hot spot, 95%",46,1115,4.13
+FC,Russia,Khabarovskiy,2006,3,"Hot spot, 99%",281,1115,25.2
+FC,Russia,Khabarovskiy,2007,-3,"Cold spot, 99%",20,1115,1.79
+FC,Russia,Khabarovskiy,2007,-2,"Cold spot, 95%",255,1115,22.87
+FC,Russia,Khabarovskiy,2007,-1,"Cold spot, 90%",104,1115,9.33
+FC,Russia,Khabarovskiy,2007,0,Not significant,571,1115,51.21
+FC,Russia,Khabarovskiy,2007,1,"Hot spot, 90%",34,1115,3.05
+FC,Russia,Khabarovskiy,2007,2,"Hot spot, 95%",79,1115,7.09
+FC,Russia,Khabarovskiy,2007,3,"Hot spot, 99%",52,1115,4.66
+FC,Russia,Khabarovskiy,2008,-3,"Cold spot, 99%",0,1115,0.0
+FC,Russia,Khabarovskiy,2008,-2,"Cold spot, 95%",30,1115,2.69
+FC,Russia,Khabarovskiy,2008,-1,"Cold spot, 90%",36,1115,3.23
+FC,Russia,Khabarovskiy,2008,0,Not significant,565,1115,50.67
+FC,Russia,Khabarovskiy,2008,1,"Hot spot, 90%",97,1115,8.7
+FC,Russia,Khabarovskiy,2008,2,"Hot spot, 95%",101,1115,9.06
+FC,Russia,Khabarovskiy,2008,3,"Hot spot, 99%",286,1115,25.65
+FC,Russia,Khabarovskiy,2009,-3,"Cold spot, 99%",1,1115,0.09
+FC,Russia,Khabarovskiy,2009,-2,"Cold spot, 95%",53,1115,4.75
+FC,Russia,Khabarovskiy,2009,-1,"Cold spot, 90%",57,1115,5.11
+FC,Russia,Khabarovskiy,2009,0,Not significant,477,1115,42.78
+FC,Russia,Khabarovskiy,2009,1,"Hot spot, 90%",19,1115,1.7
+FC,Russia,Khabarovskiy,2009,2,"Hot spot, 95%",32,1115,2.87
+FC,Russia,Khabarovskiy,2009,3,"Hot spot, 99%",476,1115,42.69
+FC,Russia,Khabarovskiy,2010,-3,"Cold spot, 99%",142,1115,12.74
+FC,Russia,Khabarovskiy,2010,-2,"Cold spot, 95%",148,1115,13.27
+FC,Russia,Khabarovskiy,2010,-1,"Cold spot, 90%",53,1115,4.75
+FC,Russia,Khabarovskiy,2010,0,Not significant,358,1115,32.11
+FC,Russia,Khabarovskiy,2010,1,"Hot spot, 90%",8,1115,0.72
+FC,Russia,Khabarovskiy,2010,2,"Hot spot, 95%",10,1115,0.9
+FC,Russia,Khabarovskiy,2010,3,"Hot spot, 99%",396,1115,35.52
+FC,Russia,Khabarovskiy,2011,-3,"Cold spot, 99%",146,1115,13.09
+FC,Russia,Khabarovskiy,2011,-2,"Cold spot, 95%",369,1115,33.09
+FC,Russia,Khabarovskiy,2011,-1,"Cold spot, 90%",171,1115,15.34
+FC,Russia,Khabarovskiy,2011,0,Not significant,429,1115,38.48
+FC,Russia,Khabarovskiy,2011,1,"Hot spot, 90%",0,1115,0.0
+FC,Russia,Khabarovskiy,2011,2,"Hot spot, 95%",0,1115,0.0
+FC,Russia,Khabarovskiy,2011,3,"Hot spot, 99%",0,1115,0.0
+FC,Russia,Khabarovskiy,2012,-3,"Cold spot, 99%",10,1115,0.9
+FC,Russia,Khabarovskiy,2012,-2,"Cold spot, 95%",50,1115,4.48
+FC,Russia,Khabarovskiy,2012,-1,"Cold spot, 90%",57,1115,5.11
+FC,Russia,Khabarovskiy,2012,0,Not significant,617,1115,55.34
+FC,Russia,Khabarovskiy,2012,1,"Hot spot, 90%",50,1115,4.48
+FC,Russia,Khabarovskiy,2012,2,"Hot spot, 95%",67,1115,6.01
+FC,Russia,Khabarovskiy,2012,3,"Hot spot, 99%",264,1115,23.68
+FC,Russia,Khabarovskiy,2013,-3,"Cold spot, 99%",14,1115,1.26
+FC,Russia,Khabarovskiy,2013,-2,"Cold spot, 95%",61,1115,5.47
+FC,Russia,Khabarovskiy,2013,-1,"Cold spot, 90%",51,1115,4.57
+FC,Russia,Khabarovskiy,2013,0,Not significant,639,1115,57.31
+FC,Russia,Khabarovskiy,2013,1,"Hot spot, 90%",26,1115,2.33
+FC,Russia,Khabarovskiy,2013,2,"Hot spot, 95%",69,1115,6.19
+FC,Russia,Khabarovskiy,2013,3,"Hot spot, 99%",255,1115,22.87
+FC,Russia,Khabarovskiy,2014,-3,"Cold spot, 99%",200,1115,17.94
+FC,Russia,Khabarovskiy,2014,-2,"Cold spot, 95%",282,1115,25.29
+FC,Russia,Khabarovskiy,2014,-1,"Cold spot, 90%",61,1115,5.47
+FC,Russia,Khabarovskiy,2014,0,Not significant,235,1115,21.08
+FC,Russia,Khabarovskiy,2014,1,"Hot spot, 90%",25,1115,2.24
+FC,Russia,Khabarovskiy,2014,2,"Hot spot, 95%",89,1115,7.98
+FC,Russia,Khabarovskiy,2014,3,"Hot spot, 99%",223,1115,20.0
+FC,Russia,Khabarovskiy,2015,-3,"Cold spot, 99%",379,1115,33.99
+FC,Russia,Khabarovskiy,2015,-2,"Cold spot, 95%",229,1115,20.54
+FC,Russia,Khabarovskiy,2015,-1,"Cold spot, 90%",41,1115,3.68
+FC,Russia,Khabarovskiy,2015,0,Not significant,337,1115,30.22
+FC,Russia,Khabarovskiy,2015,1,"Hot spot, 90%",30,1115,2.69
+FC,Russia,Khabarovskiy,2015,2,"Hot spot, 95%",48,1115,4.3
+FC,Russia,Khabarovskiy,2015,3,"Hot spot, 99%",51,1115,4.57
+FC,Russia,Khabarovskiy,2016,-3,"Cold spot, 99%",586,1115,52.56
+FC,Russia,Khabarovskiy,2016,-2,"Cold spot, 95%",150,1115,13.45
+FC,Russia,Khabarovskiy,2016,-1,"Cold spot, 90%",64,1115,5.74
+FC,Russia,Khabarovskiy,2016,0,Not significant,315,1115,28.25
+FC,Russia,Khabarovskiy,2016,1,"Hot spot, 90%",0,1115,0.0
+FC,Russia,Khabarovskiy,2016,2,"Hot spot, 95%",0,1115,0.0
+FC,Russia,Khabarovskiy,2016,3,"Hot spot, 99%",0,1115,0.0
+FC,Russia,Khabarovskiy,2017,-3,"Cold spot, 99%",441,1115,39.55
+FC,Russia,Khabarovskiy,2017,-2,"Cold spot, 95%",148,1115,13.27
+FC,Russia,Khabarovskiy,2017,-1,"Cold spot, 90%",84,1115,7.53
+FC,Russia,Khabarovskiy,2017,0,Not significant,434,1115,38.92
+FC,Russia,Khabarovskiy,2017,1,"Hot spot, 90%",8,1115,0.72
+FC,Russia,Khabarovskiy,2017,2,"Hot spot, 95%",0,1115,0.0
+FC,Russia,Khabarovskiy,2017,3,"Hot spot, 99%",0,1115,0.0
+FC,Russia,Khabarovskiy,2018,-3,"Cold spot, 99%",387,1115,34.71
+FC,Russia,Khabarovskiy,2018,-2,"Cold spot, 95%",225,1115,20.18
+FC,Russia,Khabarovskiy,2018,-1,"Cold spot, 90%",71,1115,6.37
+FC,Russia,Khabarovskiy,2018,0,Not significant,256,1115,22.96
+FC,Russia,Khabarovskiy,2018,1,"Hot spot, 90%",17,1115,1.52
+FC,Russia,Khabarovskiy,2018,2,"Hot spot, 95%",20,1115,1.79
+FC,Russia,Khabarovskiy,2018,3,"Hot spot, 99%",139,1115,12.47
+FC,Russia,Khabarovskiy,2019,-3,"Cold spot, 99%",236,1115,21.17
+FC,Russia,Khabarovskiy,2019,-2,"Cold spot, 95%",174,1115,15.61
+FC,Russia,Khabarovskiy,2019,-1,"Cold spot, 90%",93,1115,8.34
+FC,Russia,Khabarovskiy,2019,0,Not significant,381,1115,34.17
+FC,Russia,Khabarovskiy,2019,1,"Hot spot, 90%",16,1115,1.43
+FC,Russia,Khabarovskiy,2019,2,"Hot spot, 95%",28,1115,2.51
+FC,Russia,Khabarovskiy,2019,3,"Hot spot, 99%",187,1115,16.77
+FC,Russia,Khabarovskiy,2020,-3,"Cold spot, 99%",297,1115,26.64
+FC,Russia,Khabarovskiy,2020,-2,"Cold spot, 95%",210,1115,18.83
+FC,Russia,Khabarovskiy,2020,-1,"Cold spot, 90%",74,1115,6.64
+FC,Russia,Khabarovskiy,2020,0,Not significant,450,1115,40.36
+FC,Russia,Khabarovskiy,2020,1,"Hot spot, 90%",13,1115,1.17
+FC,Russia,Khabarovskiy,2020,2,"Hot spot, 95%",31,1115,2.78
+FC,Russia,Khabarovskiy,2020,3,"Hot spot, 99%",40,1115,3.59
+FC,Russia,Khabarovskiy,2021,-3,"Cold spot, 99%",680,1115,60.99
+FC,Russia,Khabarovskiy,2021,-2,"Cold spot, 95%",129,1115,11.57
+FC,Russia,Khabarovskiy,2021,-1,"Cold spot, 90%",44,1115,3.95
+FC,Russia,Khabarovskiy,2021,0,Not significant,262,1115,23.5
+FC,Russia,Khabarovskiy,2021,1,"Hot spot, 90%",0,1115,0.0
+FC,Russia,Khabarovskiy,2021,2,"Hot spot, 95%",0,1115,0.0
+FC,Russia,Khabarovskiy,2021,3,"Hot spot, 99%",0,1115,0.0
+FC,Russia,Khabarovskiy,2022,-3,"Cold spot, 99%",711,1115,63.77
+FC,Russia,Khabarovskiy,2022,-2,"Cold spot, 95%",183,1115,16.41
+FC,Russia,Khabarovskiy,2022,-1,"Cold spot, 90%",53,1115,4.75
+FC,Russia,Khabarovskiy,2022,0,Not significant,168,1115,15.07
+FC,Russia,Khabarovskiy,2022,1,"Hot spot, 90%",0,1115,0.0
+FC,Russia,Khabarovskiy,2022,2,"Hot spot, 95%",0,1115,0.0
+FC,Russia,Khabarovskiy,2022,3,"Hot spot, 99%",0,1115,0.0
+FC,Russia,Khabarovskiy,2023,-3,"Cold spot, 99%",756,1115,67.8
+FC,Russia,Khabarovskiy,2023,-2,"Cold spot, 95%",193,1115,17.31
+FC,Russia,Khabarovskiy,2023,-1,"Cold spot, 90%",59,1115,5.29
+FC,Russia,Khabarovskiy,2023,0,Not significant,107,1115,9.6
+FC,Russia,Khabarovskiy,2023,1,"Hot spot, 90%",0,1115,0.0
+FC,Russia,Khabarovskiy,2023,2,"Hot spot, 95%",0,1115,0.0
+FC,Russia,Khabarovskiy,2023,3,"Hot spot, 99%",0,1115,0.0
+FC,Russia,Khabarovskiy,2024,-3,"Cold spot, 99%",442,1115,39.64
+FC,Russia,Khabarovskiy,2024,-2,"Cold spot, 95%",201,1115,18.03
+FC,Russia,Khabarovskiy,2024,-1,"Cold spot, 90%",73,1115,6.55
+FC,Russia,Khabarovskiy,2024,0,Not significant,399,1115,35.78
+FC,Russia,Khabarovskiy,2024,1,"Hot spot, 90%",0,1115,0.0
+FC,Russia,Khabarovskiy,2024,2,"Hot spot, 95%",0,1115,0.0
+FC,Russia,Khabarovskiy,2024,3,"Hot spot, 99%",0,1115,0.0
+FC,Russia,Khabarovskiy,2025,-3,"Cold spot, 99%",521,1115,46.73
+FC,Russia,Khabarovskiy,2025,-2,"Cold spot, 95%",210,1115,18.83
+FC,Russia,Khabarovskiy,2025,-1,"Cold spot, 90%",128,1115,11.48
+FC,Russia,Khabarovskiy,2025,0,Not significant,256,1115,22.96
+FC,Russia,Khabarovskiy,2025,1,"Hot spot, 90%",0,1115,0.0
+FC,Russia,Khabarovskiy,2025,2,"Hot spot, 95%",0,1115,0.0
+FC,Russia,Khabarovskiy,2025,3,"Hot spot, 99%",0,1115,0.0
+FC,Russia,Primorskiy,2001,-3,"Cold spot, 99%",0,994,0.0
+FC,Russia,Primorskiy,2001,-2,"Cold spot, 95%",35,994,3.52
+FC,Russia,Primorskiy,2001,-1,"Cold spot, 90%",11,994,1.11
+FC,Russia,Primorskiy,2001,0,Not significant,834,994,83.9
+FC,Russia,Primorskiy,2001,1,"Hot spot, 90%",20,994,2.01
+FC,Russia,Primorskiy,2001,2,"Hot spot, 95%",36,994,3.62
+FC,Russia,Primorskiy,2001,3,"Hot spot, 99%",58,994,5.84
+FC,Russia,Primorskiy,2002,-3,"Cold spot, 99%",39,994,3.92
+FC,Russia,Primorskiy,2002,-2,"Cold spot, 95%",160,994,16.1
+FC,Russia,Primorskiy,2002,-1,"Cold spot, 90%",87,994,8.75
+FC,Russia,Primorskiy,2002,0,Not significant,659,994,66.3
+FC,Russia,Primorskiy,2002,1,"Hot spot, 90%",21,994,2.11
+FC,Russia,Primorskiy,2002,2,"Hot spot, 95%",23,994,2.31
+FC,Russia,Primorskiy,2002,3,"Hot spot, 99%",5,994,0.5
+FC,Russia,Primorskiy,2003,-3,"Cold spot, 99%",0,994,0.0
+FC,Russia,Primorskiy,2003,-2,"Cold spot, 95%",0,994,0.0
+FC,Russia,Primorskiy,2003,-1,"Cold spot, 90%",0,994,0.0
+FC,Russia,Primorskiy,2003,0,Not significant,493,994,49.6
+FC,Russia,Primorskiy,2003,1,"Hot spot, 90%",44,994,4.43
+FC,Russia,Primorskiy,2003,2,"Hot spot, 95%",62,994,6.24
+FC,Russia,Primorskiy,2003,3,"Hot spot, 99%",395,994,39.74
+FC,Russia,Primorskiy,2004,-3,"Cold spot, 99%",0,994,0.0
+FC,Russia,Primorskiy,2004,-2,"Cold spot, 95%",0,994,0.0
+FC,Russia,Primorskiy,2004,-1,"Cold spot, 90%",0,994,0.0
+FC,Russia,Primorskiy,2004,0,Not significant,28,994,2.82
+FC,Russia,Primorskiy,2004,1,"Hot spot, 90%",10,994,1.01
+FC,Russia,Primorskiy,2004,2,"Hot spot, 95%",31,994,3.12
+FC,Russia,Primorskiy,2004,3,"Hot spot, 99%",925,994,93.06
+FC,Russia,Primorskiy,2005,-3,"Cold spot, 99%",0,994,0.0
+FC,Russia,Primorskiy,2005,-2,"Cold spot, 95%",15,994,1.51
+FC,Russia,Primorskiy,2005,-1,"Cold spot, 90%",17,994,1.71
+FC,Russia,Primorskiy,2005,0,Not significant,218,994,21.93
+FC,Russia,Primorskiy,2005,1,"Hot spot, 90%",30,994,3.02
+FC,Russia,Primorskiy,2005,2,"Hot spot, 95%",38,994,3.82
+FC,Russia,Primorskiy,2005,3,"Hot spot, 99%",676,994,68.01
+FC,Russia,Primorskiy,2006,-3,"Cold spot, 99%",30,994,3.02
+FC,Russia,Primorskiy,2006,-2,"Cold spot, 95%",38,994,3.82
+FC,Russia,Primorskiy,2006,-1,"Cold spot, 90%",47,994,4.73
+FC,Russia,Primorskiy,2006,0,Not significant,407,994,40.95
+FC,Russia,Primorskiy,2006,1,"Hot spot, 90%",67,994,6.74
+FC,Russia,Primorskiy,2006,2,"Hot spot, 95%",79,994,7.95
+FC,Russia,Primorskiy,2006,3,"Hot spot, 99%",326,994,32.8
+FC,Russia,Primorskiy,2007,-3,"Cold spot, 99%",34,994,3.42
+FC,Russia,Primorskiy,2007,-2,"Cold spot, 95%",56,994,5.63
+FC,Russia,Primorskiy,2007,-1,"Cold spot, 90%",13,994,1.31
+FC,Russia,Primorskiy,2007,0,Not significant,312,994,31.39
+FC,Russia,Primorskiy,2007,1,"Hot spot, 90%",42,994,4.23
+FC,Russia,Primorskiy,2007,2,"Hot spot, 95%",88,994,8.85
+FC,Russia,Primorskiy,2007,3,"Hot spot, 99%",449,994,45.17
+FC,Russia,Primorskiy,2008,-3,"Cold spot, 99%",0,994,0.0
+FC,Russia,Primorskiy,2008,-2,"Cold spot, 95%",72,994,7.24
+FC,Russia,Primorskiy,2008,-1,"Cold spot, 90%",31,994,3.12
+FC,Russia,Primorskiy,2008,0,Not significant,107,994,10.76
+FC,Russia,Primorskiy,2008,1,"Hot spot, 90%",21,994,2.11
+FC,Russia,Primorskiy,2008,2,"Hot spot, 95%",58,994,5.84
+FC,Russia,Primorskiy,2008,3,"Hot spot, 99%",705,994,70.93
+FC,Russia,Primorskiy,2009,-3,"Cold spot, 99%",0,994,0.0
+FC,Russia,Primorskiy,2009,-2,"Cold spot, 95%",67,994,6.74
+FC,Russia,Primorskiy,2009,-1,"Cold spot, 90%",47,994,4.73
+FC,Russia,Primorskiy,2009,0,Not significant,72,994,7.24
+FC,Russia,Primorskiy,2009,1,"Hot spot, 90%",2,994,0.2
+FC,Russia,Primorskiy,2009,2,"Hot spot, 95%",12,994,1.21
+FC,Russia,Primorskiy,2009,3,"Hot spot, 99%",794,994,79.88
+FC,Russia,Primorskiy,2010,-3,"Cold spot, 99%",2,994,0.2
+FC,Russia,Primorskiy,2010,-2,"Cold spot, 95%",77,994,7.75
+FC,Russia,Primorskiy,2010,-1,"Cold spot, 90%",19,994,1.91
+FC,Russia,Primorskiy,2010,0,Not significant,167,994,16.8
+FC,Russia,Primorskiy,2010,1,"Hot spot, 90%",20,994,2.01
+FC,Russia,Primorskiy,2010,2,"Hot spot, 95%",72,994,7.24
+FC,Russia,Primorskiy,2010,3,"Hot spot, 99%",637,994,64.08
+FC,Russia,Primorskiy,2011,-3,"Cold spot, 99%",3,994,0.3
+FC,Russia,Primorskiy,2011,-2,"Cold spot, 95%",106,994,10.66
+FC,Russia,Primorskiy,2011,-1,"Cold spot, 90%",14,994,1.41
+FC,Russia,Primorskiy,2011,0,Not significant,431,994,43.36
+FC,Russia,Primorskiy,2011,1,"Hot spot, 90%",60,994,6.04
+FC,Russia,Primorskiy,2011,2,"Hot spot, 95%",111,994,11.17
+FC,Russia,Primorskiy,2011,3,"Hot spot, 99%",269,994,27.06
+FC,Russia,Primorskiy,2012,-3,"Cold spot, 99%",2,994,0.2
+FC,Russia,Primorskiy,2012,-2,"Cold spot, 95%",121,994,12.17
+FC,Russia,Primorskiy,2012,-1,"Cold spot, 90%",28,994,2.82
+FC,Russia,Primorskiy,2012,0,Not significant,292,994,29.38
+FC,Russia,Primorskiy,2012,1,"Hot spot, 90%",47,994,4.73
+FC,Russia,Primorskiy,2012,2,"Hot spot, 95%",106,994,10.66
+FC,Russia,Primorskiy,2012,3,"Hot spot, 99%",398,994,40.04
+FC,Russia,Primorskiy,2013,-3,"Cold spot, 99%",24,994,2.41
+FC,Russia,Primorskiy,2013,-2,"Cold spot, 95%",138,994,13.88
+FC,Russia,Primorskiy,2013,-1,"Cold spot, 90%",86,994,8.65
+FC,Russia,Primorskiy,2013,0,Not significant,461,994,46.38
+FC,Russia,Primorskiy,2013,1,"Hot spot, 90%",30,994,3.02
+FC,Russia,Primorskiy,2013,2,"Hot spot, 95%",72,994,7.24
+FC,Russia,Primorskiy,2013,3,"Hot spot, 99%",183,994,18.41
+FC,Russia,Primorskiy,2014,-3,"Cold spot, 99%",16,994,1.61
+FC,Russia,Primorskiy,2014,-2,"Cold spot, 95%",63,994,6.34
+FC,Russia,Primorskiy,2014,-1,"Cold spot, 90%",46,994,4.63
+FC,Russia,Primorskiy,2014,0,Not significant,125,994,12.58
+FC,Russia,Primorskiy,2014,1,"Hot spot, 90%",12,994,1.21
+FC,Russia,Primorskiy,2014,2,"Hot spot, 95%",56,994,5.63
+FC,Russia,Primorskiy,2014,3,"Hot spot, 99%",676,994,68.01
+FC,Russia,Primorskiy,2015,-3,"Cold spot, 99%",22,994,2.21
+FC,Russia,Primorskiy,2015,-2,"Cold spot, 95%",83,994,8.35
+FC,Russia,Primorskiy,2015,-1,"Cold spot, 90%",34,994,3.42
+FC,Russia,Primorskiy,2015,0,Not significant,78,994,7.85
+FC,Russia,Primorskiy,2015,1,"Hot spot, 90%",9,994,0.91
+FC,Russia,Primorskiy,2015,2,"Hot spot, 95%",24,994,2.41
+FC,Russia,Primorskiy,2015,3,"Hot spot, 99%",744,994,74.85
+FC,Russia,Primorskiy,2016,-3,"Cold spot, 99%",82,994,8.25
+FC,Russia,Primorskiy,2016,-2,"Cold spot, 95%",170,994,17.1
+FC,Russia,Primorskiy,2016,-1,"Cold spot, 90%",65,994,6.54
+FC,Russia,Primorskiy,2016,0,Not significant,513,994,51.61
+FC,Russia,Primorskiy,2016,1,"Hot spot, 90%",37,994,3.72
+FC,Russia,Primorskiy,2016,2,"Hot spot, 95%",61,994,6.14
+FC,Russia,Primorskiy,2016,3,"Hot spot, 99%",66,994,6.64
+FC,Russia,Primorskiy,2017,-3,"Cold spot, 99%",41,994,4.12
+FC,Russia,Primorskiy,2017,-2,"Cold spot, 95%",43,994,4.33
+FC,Russia,Primorskiy,2017,-1,"Cold spot, 90%",22,994,2.21
+FC,Russia,Primorskiy,2017,0,Not significant,468,994,47.08
+FC,Russia,Primorskiy,2017,1,"Hot spot, 90%",52,994,5.23
+FC,Russia,Primorskiy,2017,2,"Hot spot, 95%",79,994,7.95
+FC,Russia,Primorskiy,2017,3,"Hot spot, 99%",289,994,29.07
+FC,Russia,Primorskiy,2018,-3,"Cold spot, 99%",40,994,4.02
+FC,Russia,Primorskiy,2018,-2,"Cold spot, 95%",8,994,0.8
+FC,Russia,Primorskiy,2018,-1,"Cold spot, 90%",5,994,0.5
+FC,Russia,Primorskiy,2018,0,Not significant,179,994,18.01
+FC,Russia,Primorskiy,2018,1,"Hot spot, 90%",21,994,2.11
+FC,Russia,Primorskiy,2018,2,"Hot spot, 95%",54,994,5.43
+FC,Russia,Primorskiy,2018,3,"Hot spot, 99%",687,994,69.11
+FC,Russia,Primorskiy,2019,-3,"Cold spot, 99%",38,994,3.82
+FC,Russia,Primorskiy,2019,-2,"Cold spot, 95%",61,994,6.14
+FC,Russia,Primorskiy,2019,-1,"Cold spot, 90%",11,994,1.11
+FC,Russia,Primorskiy,2019,0,Not significant,107,994,10.76
+FC,Russia,Primorskiy,2019,1,"Hot spot, 90%",15,994,1.51
+FC,Russia,Primorskiy,2019,2,"Hot spot, 95%",28,994,2.82
+FC,Russia,Primorskiy,2019,3,"Hot spot, 99%",734,994,73.84
+FC,Russia,Primorskiy,2020,-3,"Cold spot, 99%",4,994,0.4
+FC,Russia,Primorskiy,2020,-2,"Cold spot, 95%",88,994,8.85
+FC,Russia,Primorskiy,2020,-1,"Cold spot, 90%",45,994,4.53
+FC,Russia,Primorskiy,2020,0,Not significant,531,994,53.42
+FC,Russia,Primorskiy,2020,1,"Hot spot, 90%",31,994,3.12
+FC,Russia,Primorskiy,2020,2,"Hot spot, 95%",31,994,3.12
+FC,Russia,Primorskiy,2020,3,"Hot spot, 99%",264,994,26.56
+FC,Russia,Primorskiy,2021,-3,"Cold spot, 99%",10,994,1.01
+FC,Russia,Primorskiy,2021,-2,"Cold spot, 95%",92,994,9.26
+FC,Russia,Primorskiy,2021,-1,"Cold spot, 90%",64,994,6.44
+FC,Russia,Primorskiy,2021,0,Not significant,569,994,57.24
+FC,Russia,Primorskiy,2021,1,"Hot spot, 90%",38,994,3.82
+FC,Russia,Primorskiy,2021,2,"Hot spot, 95%",88,994,8.85
+FC,Russia,Primorskiy,2021,3,"Hot spot, 99%",133,994,13.38
+FC,Russia,Primorskiy,2022,-3,"Cold spot, 99%",21,994,2.11
+FC,Russia,Primorskiy,2022,-2,"Cold spot, 95%",90,994,9.05
+FC,Russia,Primorskiy,2022,-1,"Cold spot, 90%",10,994,1.01
+FC,Russia,Primorskiy,2022,0,Not significant,528,994,53.12
+FC,Russia,Primorskiy,2022,1,"Hot spot, 90%",34,994,3.42
+FC,Russia,Primorskiy,2022,2,"Hot spot, 95%",57,994,5.73
+FC,Russia,Primorskiy,2022,3,"Hot spot, 99%",254,994,25.55
+FC,Russia,Primorskiy,2023,-3,"Cold spot, 99%",56,994,5.63
+FC,Russia,Primorskiy,2023,-2,"Cold spot, 95%",140,994,14.08
+FC,Russia,Primorskiy,2023,-1,"Cold spot, 90%",59,994,5.94
+FC,Russia,Primorskiy,2023,0,Not significant,557,994,56.04
+FC,Russia,Primorskiy,2023,1,"Hot spot, 90%",23,994,2.31
+FC,Russia,Primorskiy,2023,2,"Hot spot, 95%",58,994,5.84
+FC,Russia,Primorskiy,2023,3,"Hot spot, 99%",101,994,10.16
+FC,Russia,Primorskiy,2024,-3,"Cold spot, 99%",245,994,24.65
+FC,Russia,Primorskiy,2024,-2,"Cold spot, 95%",375,994,37.73
+FC,Russia,Primorskiy,2024,-1,"Cold spot, 90%",45,994,4.53
+FC,Russia,Primorskiy,2024,0,Not significant,329,994,33.1
+FC,Russia,Primorskiy,2024,1,"Hot spot, 90%",0,994,0.0
+FC,Russia,Primorskiy,2024,2,"Hot spot, 95%",0,994,0.0
+FC,Russia,Primorskiy,2024,3,"Hot spot, 99%",0,994,0.0
+FC,Russia,Primorskiy,2025,-3,"Cold spot, 99%",415,994,41.75
+FC,Russia,Primorskiy,2025,-2,"Cold spot, 95%",294,994,29.58
+FC,Russia,Primorskiy,2025,-1,"Cold spot, 90%",56,994,5.63
+FC,Russia,Primorskiy,2025,0,Not significant,229,994,23.04
+FC,Russia,Primorskiy,2025,1,"Hot spot, 90%",0,994,0.0
+FC,Russia,Primorskiy,2025,2,"Hot spot, 95%",0,994,0.0
+FC,Russia,Primorskiy,2025,3,"Hot spot, 99%",0,994,0.0
+BA,China,Heilongjiang,2001,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2001,-2,"Cold spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2001,-1,"Cold spot, 90%",0,162,0.0
+BA,China,Heilongjiang,2001,0,Not significant,143,162,88.27
+BA,China,Heilongjiang,2001,1,"Hot spot, 90%",4,162,2.47
+BA,China,Heilongjiang,2001,2,"Hot spot, 95%",4,162,2.47
+BA,China,Heilongjiang,2001,3,"Hot spot, 99%",11,162,6.79
+BA,China,Heilongjiang,2002,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2002,-2,"Cold spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2002,-1,"Cold spot, 90%",9,162,5.56
+BA,China,Heilongjiang,2002,0,Not significant,144,162,88.89
+BA,China,Heilongjiang,2002,1,"Hot spot, 90%",1,162,0.62
+BA,China,Heilongjiang,2002,2,"Hot spot, 95%",1,162,0.62
+BA,China,Heilongjiang,2002,3,"Hot spot, 99%",7,162,4.32
+BA,China,Heilongjiang,2003,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2003,-2,"Cold spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2003,-1,"Cold spot, 90%",0,162,0.0
+BA,China,Heilongjiang,2003,0,Not significant,162,162,100.0
+BA,China,Heilongjiang,2003,1,"Hot spot, 90%",0,162,0.0
+BA,China,Heilongjiang,2003,2,"Hot spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2003,3,"Hot spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2004,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2004,-2,"Cold spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2004,-1,"Cold spot, 90%",0,162,0.0
+BA,China,Heilongjiang,2004,0,Not significant,149,162,91.98
+BA,China,Heilongjiang,2004,1,"Hot spot, 90%",3,162,1.85
+BA,China,Heilongjiang,2004,2,"Hot spot, 95%",7,162,4.32
+BA,China,Heilongjiang,2004,3,"Hot spot, 99%",3,162,1.85
+BA,China,Heilongjiang,2005,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2005,-2,"Cold spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2005,-1,"Cold spot, 90%",0,162,0.0
+BA,China,Heilongjiang,2005,0,Not significant,123,162,75.93
+BA,China,Heilongjiang,2005,1,"Hot spot, 90%",10,162,6.17
+BA,China,Heilongjiang,2005,2,"Hot spot, 95%",3,162,1.85
+BA,China,Heilongjiang,2005,3,"Hot spot, 99%",26,162,16.05
+BA,China,Heilongjiang,2006,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2006,-2,"Cold spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2006,-1,"Cold spot, 90%",0,162,0.0
+BA,China,Heilongjiang,2006,0,Not significant,136,162,83.95
+BA,China,Heilongjiang,2006,1,"Hot spot, 90%",11,162,6.79
+BA,China,Heilongjiang,2006,2,"Hot spot, 95%",6,162,3.7
+BA,China,Heilongjiang,2006,3,"Hot spot, 99%",9,162,5.56
+BA,China,Heilongjiang,2007,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2007,-2,"Cold spot, 95%",2,162,1.23
+BA,China,Heilongjiang,2007,-1,"Cold spot, 90%",23,162,14.2
+BA,China,Heilongjiang,2007,0,Not significant,137,162,84.57
+BA,China,Heilongjiang,2007,1,"Hot spot, 90%",0,162,0.0
+BA,China,Heilongjiang,2007,2,"Hot spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2007,3,"Hot spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2008,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2008,-2,"Cold spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2008,-1,"Cold spot, 90%",4,162,2.47
+BA,China,Heilongjiang,2008,0,Not significant,75,162,46.3
+BA,China,Heilongjiang,2008,1,"Hot spot, 90%",7,162,4.32
+BA,China,Heilongjiang,2008,2,"Hot spot, 95%",12,162,7.41
+BA,China,Heilongjiang,2008,3,"Hot spot, 99%",64,162,39.51
+BA,China,Heilongjiang,2009,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2009,-2,"Cold spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2009,-1,"Cold spot, 90%",3,162,1.85
+BA,China,Heilongjiang,2009,0,Not significant,68,162,41.98
+BA,China,Heilongjiang,2009,1,"Hot spot, 90%",2,162,1.23
+BA,China,Heilongjiang,2009,2,"Hot spot, 95%",5,162,3.09
+BA,China,Heilongjiang,2009,3,"Hot spot, 99%",84,162,51.85
+BA,China,Heilongjiang,2010,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2010,-2,"Cold spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2010,-1,"Cold spot, 90%",0,162,0.0
+BA,China,Heilongjiang,2010,0,Not significant,114,162,70.37
+BA,China,Heilongjiang,2010,1,"Hot spot, 90%",9,162,5.56
+BA,China,Heilongjiang,2010,2,"Hot spot, 95%",20,162,12.35
+BA,China,Heilongjiang,2010,3,"Hot spot, 99%",19,162,11.73
+BA,China,Heilongjiang,2011,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2011,-2,"Cold spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2011,-1,"Cold spot, 90%",5,162,3.09
+BA,China,Heilongjiang,2011,0,Not significant,139,162,85.8
+BA,China,Heilongjiang,2011,1,"Hot spot, 90%",2,162,1.23
+BA,China,Heilongjiang,2011,2,"Hot spot, 95%",1,162,0.62
+BA,China,Heilongjiang,2011,3,"Hot spot, 99%",15,162,9.26
+BA,China,Heilongjiang,2012,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2012,-2,"Cold spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2012,-1,"Cold spot, 90%",7,162,4.32
+BA,China,Heilongjiang,2012,0,Not significant,135,162,83.33
+BA,China,Heilongjiang,2012,1,"Hot spot, 90%",6,162,3.7
+BA,China,Heilongjiang,2012,2,"Hot spot, 95%",5,162,3.09
+BA,China,Heilongjiang,2012,3,"Hot spot, 99%",9,162,5.56
+BA,China,Heilongjiang,2013,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2013,-2,"Cold spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2013,-1,"Cold spot, 90%",0,162,0.0
+BA,China,Heilongjiang,2013,0,Not significant,128,162,79.01
+BA,China,Heilongjiang,2013,1,"Hot spot, 90%",4,162,2.47
+BA,China,Heilongjiang,2013,2,"Hot spot, 95%",15,162,9.26
+BA,China,Heilongjiang,2013,3,"Hot spot, 99%",15,162,9.26
+BA,China,Heilongjiang,2014,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2014,-2,"Cold spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2014,-1,"Cold spot, 90%",0,162,0.0
+BA,China,Heilongjiang,2014,0,Not significant,89,162,54.94
+BA,China,Heilongjiang,2014,1,"Hot spot, 90%",4,162,2.47
+BA,China,Heilongjiang,2014,2,"Hot spot, 95%",8,162,4.94
+BA,China,Heilongjiang,2014,3,"Hot spot, 99%",61,162,37.65
+BA,China,Heilongjiang,2015,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2015,-2,"Cold spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2015,-1,"Cold spot, 90%",0,162,0.0
+BA,China,Heilongjiang,2015,0,Not significant,110,162,67.9
+BA,China,Heilongjiang,2015,1,"Hot spot, 90%",9,162,5.56
+BA,China,Heilongjiang,2015,2,"Hot spot, 95%",7,162,4.32
+BA,China,Heilongjiang,2015,3,"Hot spot, 99%",36,162,22.22
+BA,China,Heilongjiang,2016,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2016,-2,"Cold spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2016,-1,"Cold spot, 90%",3,162,1.85
+BA,China,Heilongjiang,2016,0,Not significant,143,162,88.27
+BA,China,Heilongjiang,2016,1,"Hot spot, 90%",3,162,1.85
+BA,China,Heilongjiang,2016,2,"Hot spot, 95%",4,162,2.47
+BA,China,Heilongjiang,2016,3,"Hot spot, 99%",9,162,5.56
+BA,China,Heilongjiang,2017,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2017,-2,"Cold spot, 95%",24,162,14.81
+BA,China,Heilongjiang,2017,-1,"Cold spot, 90%",29,162,17.9
+BA,China,Heilongjiang,2017,0,Not significant,104,162,64.2
+BA,China,Heilongjiang,2017,1,"Hot spot, 90%",0,162,0.0
+BA,China,Heilongjiang,2017,2,"Hot spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2017,3,"Hot spot, 99%",5,162,3.09
+BA,China,Heilongjiang,2018,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2018,-2,"Cold spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2018,-1,"Cold spot, 90%",17,162,10.49
+BA,China,Heilongjiang,2018,0,Not significant,122,162,75.31
+BA,China,Heilongjiang,2018,1,"Hot spot, 90%",2,162,1.23
+BA,China,Heilongjiang,2018,2,"Hot spot, 95%",6,162,3.7
+BA,China,Heilongjiang,2018,3,"Hot spot, 99%",15,162,9.26
+BA,China,Heilongjiang,2019,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2019,-2,"Cold spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2019,-1,"Cold spot, 90%",10,162,6.17
+BA,China,Heilongjiang,2019,0,Not significant,101,162,62.35
+BA,China,Heilongjiang,2019,1,"Hot spot, 90%",3,162,1.85
+BA,China,Heilongjiang,2019,2,"Hot spot, 95%",9,162,5.56
+BA,China,Heilongjiang,2019,3,"Hot spot, 99%",39,162,24.07
+BA,China,Heilongjiang,2020,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2020,-2,"Cold spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2020,-1,"Cold spot, 90%",15,162,9.26
+BA,China,Heilongjiang,2020,0,Not significant,122,162,75.31
+BA,China,Heilongjiang,2020,1,"Hot spot, 90%",5,162,3.09
+BA,China,Heilongjiang,2020,2,"Hot spot, 95%",5,162,3.09
+BA,China,Heilongjiang,2020,3,"Hot spot, 99%",15,162,9.26
+BA,China,Heilongjiang,2021,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2021,-2,"Cold spot, 95%",42,162,25.93
+BA,China,Heilongjiang,2021,-1,"Cold spot, 90%",40,162,24.69
+BA,China,Heilongjiang,2021,0,Not significant,78,162,48.15
+BA,China,Heilongjiang,2021,1,"Hot spot, 90%",2,162,1.23
+BA,China,Heilongjiang,2021,2,"Hot spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2021,3,"Hot spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2022,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2022,-2,"Cold spot, 95%",38,162,23.46
+BA,China,Heilongjiang,2022,-1,"Cold spot, 90%",38,162,23.46
+BA,China,Heilongjiang,2022,0,Not significant,82,162,50.62
+BA,China,Heilongjiang,2022,1,"Hot spot, 90%",4,162,2.47
+BA,China,Heilongjiang,2022,2,"Hot spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2022,3,"Hot spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2023,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2023,-2,"Cold spot, 95%",8,162,4.94
+BA,China,Heilongjiang,2023,-1,"Cold spot, 90%",42,162,25.93
+BA,China,Heilongjiang,2023,0,Not significant,106,162,65.43
+BA,China,Heilongjiang,2023,1,"Hot spot, 90%",3,162,1.85
+BA,China,Heilongjiang,2023,2,"Hot spot, 95%",2,162,1.23
+BA,China,Heilongjiang,2023,3,"Hot spot, 99%",1,162,0.62
+BA,China,Heilongjiang,2024,-3,"Cold spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2024,-2,"Cold spot, 95%",24,162,14.81
+BA,China,Heilongjiang,2024,-1,"Cold spot, 90%",41,162,25.31
+BA,China,Heilongjiang,2024,0,Not significant,97,162,59.88
+BA,China,Heilongjiang,2024,1,"Hot spot, 90%",0,162,0.0
+BA,China,Heilongjiang,2024,2,"Hot spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2024,3,"Hot spot, 99%",0,162,0.0
+BA,China,Heilongjiang,2025,-3,"Cold spot, 99%",15,162,9.26
+BA,China,Heilongjiang,2025,-2,"Cold spot, 95%",65,162,40.12
+BA,China,Heilongjiang,2025,-1,"Cold spot, 90%",26,162,16.05
+BA,China,Heilongjiang,2025,0,Not significant,56,162,34.57
+BA,China,Heilongjiang,2025,1,"Hot spot, 90%",0,162,0.0
+BA,China,Heilongjiang,2025,2,"Hot spot, 95%",0,162,0.0
+BA,China,Heilongjiang,2025,3,"Hot spot, 99%",0,162,0.0
+BA,China,Jilin,2001,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2001,-2,"Cold spot, 95%",0,40,0.0
+BA,China,Jilin,2001,-1,"Cold spot, 90%",0,40,0.0
+BA,China,Jilin,2001,0,Not significant,39,40,97.5
+BA,China,Jilin,2001,1,"Hot spot, 90%",0,40,0.0
+BA,China,Jilin,2001,2,"Hot spot, 95%",1,40,2.5
+BA,China,Jilin,2001,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2002,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2002,-2,"Cold spot, 95%",3,40,7.5
+BA,China,Jilin,2002,-1,"Cold spot, 90%",5,40,12.5
+BA,China,Jilin,2002,0,Not significant,32,40,80.0
+BA,China,Jilin,2002,1,"Hot spot, 90%",0,40,0.0
+BA,China,Jilin,2002,2,"Hot spot, 95%",0,40,0.0
+BA,China,Jilin,2002,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2003,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2003,-2,"Cold spot, 95%",3,40,7.5
+BA,China,Jilin,2003,-1,"Cold spot, 90%",4,40,10.0
+BA,China,Jilin,2003,0,Not significant,33,40,82.5
+BA,China,Jilin,2003,1,"Hot spot, 90%",0,40,0.0
+BA,China,Jilin,2003,2,"Hot spot, 95%",0,40,0.0
+BA,China,Jilin,2003,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2004,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2004,-2,"Cold spot, 95%",1,40,2.5
+BA,China,Jilin,2004,-1,"Cold spot, 90%",3,40,7.5
+BA,China,Jilin,2004,0,Not significant,35,40,87.5
+BA,China,Jilin,2004,1,"Hot spot, 90%",1,40,2.5
+BA,China,Jilin,2004,2,"Hot spot, 95%",0,40,0.0
+BA,China,Jilin,2004,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2005,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2005,-2,"Cold spot, 95%",1,40,2.5
+BA,China,Jilin,2005,-1,"Cold spot, 90%",3,40,7.5
+BA,China,Jilin,2005,0,Not significant,35,40,87.5
+BA,China,Jilin,2005,1,"Hot spot, 90%",1,40,2.5
+BA,China,Jilin,2005,2,"Hot spot, 95%",0,40,0.0
+BA,China,Jilin,2005,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2006,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2006,-2,"Cold spot, 95%",2,40,5.0
+BA,China,Jilin,2006,-1,"Cold spot, 90%",3,40,7.5
+BA,China,Jilin,2006,0,Not significant,34,40,85.0
+BA,China,Jilin,2006,1,"Hot spot, 90%",1,40,2.5
+BA,China,Jilin,2006,2,"Hot spot, 95%",0,40,0.0
+BA,China,Jilin,2006,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2007,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2007,-2,"Cold spot, 95%",2,40,5.0
+BA,China,Jilin,2007,-1,"Cold spot, 90%",4,40,10.0
+BA,China,Jilin,2007,0,Not significant,34,40,85.0
+BA,China,Jilin,2007,1,"Hot spot, 90%",0,40,0.0
+BA,China,Jilin,2007,2,"Hot spot, 95%",0,40,0.0
+BA,China,Jilin,2007,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2008,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2008,-2,"Cold spot, 95%",0,40,0.0
+BA,China,Jilin,2008,-1,"Cold spot, 90%",2,40,5.0
+BA,China,Jilin,2008,0,Not significant,37,40,92.5
+BA,China,Jilin,2008,1,"Hot spot, 90%",0,40,0.0
+BA,China,Jilin,2008,2,"Hot spot, 95%",0,40,0.0
+BA,China,Jilin,2008,3,"Hot spot, 99%",1,40,2.5
+BA,China,Jilin,2009,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2009,-2,"Cold spot, 95%",0,40,0.0
+BA,China,Jilin,2009,-1,"Cold spot, 90%",0,40,0.0
+BA,China,Jilin,2009,0,Not significant,38,40,95.0
+BA,China,Jilin,2009,1,"Hot spot, 90%",0,40,0.0
+BA,China,Jilin,2009,2,"Hot spot, 95%",1,40,2.5
+BA,China,Jilin,2009,3,"Hot spot, 99%",1,40,2.5
+BA,China,Jilin,2010,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2010,-2,"Cold spot, 95%",0,40,0.0
+BA,China,Jilin,2010,-1,"Cold spot, 90%",1,40,2.5
+BA,China,Jilin,2010,0,Not significant,38,40,95.0
+BA,China,Jilin,2010,1,"Hot spot, 90%",0,40,0.0
+BA,China,Jilin,2010,2,"Hot spot, 95%",1,40,2.5
+BA,China,Jilin,2010,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2011,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2011,-2,"Cold spot, 95%",3,40,7.5
+BA,China,Jilin,2011,-1,"Cold spot, 90%",4,40,10.0
+BA,China,Jilin,2011,0,Not significant,32,40,80.0
+BA,China,Jilin,2011,1,"Hot spot, 90%",1,40,2.5
+BA,China,Jilin,2011,2,"Hot spot, 95%",0,40,0.0
+BA,China,Jilin,2011,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2012,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2012,-2,"Cold spot, 95%",3,40,7.5
+BA,China,Jilin,2012,-1,"Cold spot, 90%",4,40,10.0
+BA,China,Jilin,2012,0,Not significant,32,40,80.0
+BA,China,Jilin,2012,1,"Hot spot, 90%",1,40,2.5
+BA,China,Jilin,2012,2,"Hot spot, 95%",0,40,0.0
+BA,China,Jilin,2012,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2013,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2013,-2,"Cold spot, 95%",3,40,7.5
+BA,China,Jilin,2013,-1,"Cold spot, 90%",5,40,12.5
+BA,China,Jilin,2013,0,Not significant,32,40,80.0
+BA,China,Jilin,2013,1,"Hot spot, 90%",0,40,0.0
+BA,China,Jilin,2013,2,"Hot spot, 95%",0,40,0.0
+BA,China,Jilin,2013,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2014,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2014,-2,"Cold spot, 95%",0,40,0.0
+BA,China,Jilin,2014,-1,"Cold spot, 90%",0,40,0.0
+BA,China,Jilin,2014,0,Not significant,39,40,97.5
+BA,China,Jilin,2014,1,"Hot spot, 90%",0,40,0.0
+BA,China,Jilin,2014,2,"Hot spot, 95%",1,40,2.5
+BA,China,Jilin,2014,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2015,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2015,-2,"Cold spot, 95%",0,40,0.0
+BA,China,Jilin,2015,-1,"Cold spot, 90%",0,40,0.0
+BA,China,Jilin,2015,0,Not significant,39,40,97.5
+BA,China,Jilin,2015,1,"Hot spot, 90%",0,40,0.0
+BA,China,Jilin,2015,2,"Hot spot, 95%",1,40,2.5
+BA,China,Jilin,2015,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2016,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2016,-2,"Cold spot, 95%",3,40,7.5
+BA,China,Jilin,2016,-1,"Cold spot, 90%",4,40,10.0
+BA,China,Jilin,2016,0,Not significant,33,40,82.5
+BA,China,Jilin,2016,1,"Hot spot, 90%",0,40,0.0
+BA,China,Jilin,2016,2,"Hot spot, 95%",0,40,0.0
+BA,China,Jilin,2016,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2017,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2017,-2,"Cold spot, 95%",3,40,7.5
+BA,China,Jilin,2017,-1,"Cold spot, 90%",1,40,2.5
+BA,China,Jilin,2017,0,Not significant,35,40,87.5
+BA,China,Jilin,2017,1,"Hot spot, 90%",0,40,0.0
+BA,China,Jilin,2017,2,"Hot spot, 95%",1,40,2.5
+BA,China,Jilin,2017,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2018,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2018,-2,"Cold spot, 95%",2,40,5.0
+BA,China,Jilin,2018,-1,"Cold spot, 90%",2,40,5.0
+BA,China,Jilin,2018,0,Not significant,36,40,90.0
+BA,China,Jilin,2018,1,"Hot spot, 90%",0,40,0.0
+BA,China,Jilin,2018,2,"Hot spot, 95%",0,40,0.0
+BA,China,Jilin,2018,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2019,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2019,-2,"Cold spot, 95%",3,40,7.5
+BA,China,Jilin,2019,-1,"Cold spot, 90%",3,40,7.5
+BA,China,Jilin,2019,0,Not significant,32,40,80.0
+BA,China,Jilin,2019,1,"Hot spot, 90%",1,40,2.5
+BA,China,Jilin,2019,2,"Hot spot, 95%",1,40,2.5
+BA,China,Jilin,2019,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2020,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2020,-2,"Cold spot, 95%",3,40,7.5
+BA,China,Jilin,2020,-1,"Cold spot, 90%",4,40,10.0
+BA,China,Jilin,2020,0,Not significant,31,40,77.5
+BA,China,Jilin,2020,1,"Hot spot, 90%",0,40,0.0
+BA,China,Jilin,2020,2,"Hot spot, 95%",2,40,5.0
+BA,China,Jilin,2020,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2021,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2021,-2,"Cold spot, 95%",3,40,7.5
+BA,China,Jilin,2021,-1,"Cold spot, 90%",5,40,12.5
+BA,China,Jilin,2021,0,Not significant,32,40,80.0
+BA,China,Jilin,2021,1,"Hot spot, 90%",0,40,0.0
+BA,China,Jilin,2021,2,"Hot spot, 95%",0,40,0.0
+BA,China,Jilin,2021,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2022,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2022,-2,"Cold spot, 95%",3,40,7.5
+BA,China,Jilin,2022,-1,"Cold spot, 90%",5,40,12.5
+BA,China,Jilin,2022,0,Not significant,32,40,80.0
+BA,China,Jilin,2022,1,"Hot spot, 90%",0,40,0.0
+BA,China,Jilin,2022,2,"Hot spot, 95%",0,40,0.0
+BA,China,Jilin,2022,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2023,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2023,-2,"Cold spot, 95%",3,40,7.5
+BA,China,Jilin,2023,-1,"Cold spot, 90%",4,40,10.0
+BA,China,Jilin,2023,0,Not significant,33,40,82.5
+BA,China,Jilin,2023,1,"Hot spot, 90%",0,40,0.0
+BA,China,Jilin,2023,2,"Hot spot, 95%",0,40,0.0
+BA,China,Jilin,2023,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2024,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2024,-2,"Cold spot, 95%",3,40,7.5
+BA,China,Jilin,2024,-1,"Cold spot, 90%",4,40,10.0
+BA,China,Jilin,2024,0,Not significant,33,40,82.5
+BA,China,Jilin,2024,1,"Hot spot, 90%",0,40,0.0
+BA,China,Jilin,2024,2,"Hot spot, 95%",0,40,0.0
+BA,China,Jilin,2024,3,"Hot spot, 99%",0,40,0.0
+BA,China,Jilin,2025,-3,"Cold spot, 99%",0,40,0.0
+BA,China,Jilin,2025,-2,"Cold spot, 95%",0,40,0.0
+BA,China,Jilin,2025,-1,"Cold spot, 90%",2,40,5.0
+BA,China,Jilin,2025,0,Not significant,38,40,95.0
+BA,China,Jilin,2025,1,"Hot spot, 90%",0,40,0.0
+BA,China,Jilin,2025,2,"Hot spot, 95%",0,40,0.0
+BA,China,Jilin,2025,3,"Hot spot, 99%",0,40,0.0
+BA,North Korea,Chagang-do,2001,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2001,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2001,-1,"Cold spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2001,0,Not significant,26,26,100.0
+BA,North Korea,Chagang-do,2001,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2001,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2001,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2002,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2002,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2002,-1,"Cold spot, 90%",2,26,7.69
+BA,North Korea,Chagang-do,2002,0,Not significant,24,26,92.31
+BA,North Korea,Chagang-do,2002,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2002,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2002,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2003,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2003,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2003,-1,"Cold spot, 90%",2,26,7.69
+BA,North Korea,Chagang-do,2003,0,Not significant,24,26,92.31
+BA,North Korea,Chagang-do,2003,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2003,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2003,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2004,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2004,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2004,-1,"Cold spot, 90%",2,26,7.69
+BA,North Korea,Chagang-do,2004,0,Not significant,24,26,92.31
+BA,North Korea,Chagang-do,2004,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2004,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2004,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2005,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2005,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2005,-1,"Cold spot, 90%",2,26,7.69
+BA,North Korea,Chagang-do,2005,0,Not significant,24,26,92.31
+BA,North Korea,Chagang-do,2005,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2005,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2005,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2006,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2006,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2006,-1,"Cold spot, 90%",2,26,7.69
+BA,North Korea,Chagang-do,2006,0,Not significant,24,26,92.31
+BA,North Korea,Chagang-do,2006,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2006,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2006,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2007,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2007,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2007,-1,"Cold spot, 90%",2,26,7.69
+BA,North Korea,Chagang-do,2007,0,Not significant,24,26,92.31
+BA,North Korea,Chagang-do,2007,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2007,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2007,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2008,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2008,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2008,-1,"Cold spot, 90%",2,26,7.69
+BA,North Korea,Chagang-do,2008,0,Not significant,24,26,92.31
+BA,North Korea,Chagang-do,2008,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2008,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2008,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2009,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2009,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2009,-1,"Cold spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2009,0,Not significant,26,26,100.0
+BA,North Korea,Chagang-do,2009,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2009,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2009,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2010,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2010,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2010,-1,"Cold spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2010,0,Not significant,26,26,100.0
+BA,North Korea,Chagang-do,2010,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2010,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2010,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2011,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2011,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2011,-1,"Cold spot, 90%",2,26,7.69
+BA,North Korea,Chagang-do,2011,0,Not significant,24,26,92.31
+BA,North Korea,Chagang-do,2011,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2011,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2011,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2012,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2012,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2012,-1,"Cold spot, 90%",2,26,7.69
+BA,North Korea,Chagang-do,2012,0,Not significant,24,26,92.31
+BA,North Korea,Chagang-do,2012,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2012,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2012,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2013,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2013,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2013,-1,"Cold spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2013,0,Not significant,26,26,100.0
+BA,North Korea,Chagang-do,2013,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2013,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2013,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2014,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2014,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2014,-1,"Cold spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2014,0,Not significant,24,26,92.31
+BA,North Korea,Chagang-do,2014,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2014,2,"Hot spot, 95%",2,26,7.69
+BA,North Korea,Chagang-do,2014,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2015,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2015,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2015,-1,"Cold spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2015,0,Not significant,24,26,92.31
+BA,North Korea,Chagang-do,2015,1,"Hot spot, 90%",1,26,3.85
+BA,North Korea,Chagang-do,2015,2,"Hot spot, 95%",1,26,3.85
+BA,North Korea,Chagang-do,2015,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2016,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2016,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2016,-1,"Cold spot, 90%",2,26,7.69
+BA,North Korea,Chagang-do,2016,0,Not significant,24,26,92.31
+BA,North Korea,Chagang-do,2016,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2016,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2016,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2017,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2017,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2017,-1,"Cold spot, 90%",2,26,7.69
+BA,North Korea,Chagang-do,2017,0,Not significant,24,26,92.31
+BA,North Korea,Chagang-do,2017,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2017,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2017,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2018,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2018,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2018,-1,"Cold spot, 90%",2,26,7.69
+BA,North Korea,Chagang-do,2018,0,Not significant,24,26,92.31
+BA,North Korea,Chagang-do,2018,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2018,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2018,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2019,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2019,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2019,-1,"Cold spot, 90%",2,26,7.69
+BA,North Korea,Chagang-do,2019,0,Not significant,24,26,92.31
+BA,North Korea,Chagang-do,2019,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2019,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2019,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2020,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2020,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2020,-1,"Cold spot, 90%",2,26,7.69
+BA,North Korea,Chagang-do,2020,0,Not significant,24,26,92.31
+BA,North Korea,Chagang-do,2020,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2020,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2020,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2021,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2021,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2021,-1,"Cold spot, 90%",2,26,7.69
+BA,North Korea,Chagang-do,2021,0,Not significant,24,26,92.31
+BA,North Korea,Chagang-do,2021,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2021,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2021,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2022,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2022,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2022,-1,"Cold spot, 90%",2,26,7.69
+BA,North Korea,Chagang-do,2022,0,Not significant,24,26,92.31
+BA,North Korea,Chagang-do,2022,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2022,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2022,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2023,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2023,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2023,-1,"Cold spot, 90%",2,26,7.69
+BA,North Korea,Chagang-do,2023,0,Not significant,24,26,92.31
+BA,North Korea,Chagang-do,2023,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2023,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2023,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2024,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2024,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2024,-1,"Cold spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2024,0,Not significant,26,26,100.0
+BA,North Korea,Chagang-do,2024,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2024,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2024,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2025,-3,"Cold spot, 99%",0,26,0.0
+BA,North Korea,Chagang-do,2025,-2,"Cold spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2025,-1,"Cold spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2025,0,Not significant,26,26,100.0
+BA,North Korea,Chagang-do,2025,1,"Hot spot, 90%",0,26,0.0
+BA,North Korea,Chagang-do,2025,2,"Hot spot, 95%",0,26,0.0
+BA,North Korea,Chagang-do,2025,3,"Hot spot, 99%",0,26,0.0
+BA,North Korea,Hamgyong-bukto,2001,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2001,-2,"Cold spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2001,-1,"Cold spot, 90%",4,92,4.35
+BA,North Korea,Hamgyong-bukto,2001,0,Not significant,88,92,95.65
+BA,North Korea,Hamgyong-bukto,2001,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2001,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2001,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2002,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2002,-2,"Cold spot, 95%",33,92,35.87
+BA,North Korea,Hamgyong-bukto,2002,-1,"Cold spot, 90%",36,92,39.13
+BA,North Korea,Hamgyong-bukto,2002,0,Not significant,23,92,25.0
+BA,North Korea,Hamgyong-bukto,2002,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2002,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2002,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2003,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2003,-2,"Cold spot, 95%",38,92,41.3
+BA,North Korea,Hamgyong-bukto,2003,-1,"Cold spot, 90%",32,92,34.78
+BA,North Korea,Hamgyong-bukto,2003,0,Not significant,22,92,23.91
+BA,North Korea,Hamgyong-bukto,2003,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2003,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2003,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2004,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2004,-2,"Cold spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2004,-1,"Cold spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2004,0,Not significant,74,92,80.43
+BA,North Korea,Hamgyong-bukto,2004,1,"Hot spot, 90%",3,92,3.26
+BA,North Korea,Hamgyong-bukto,2004,2,"Hot spot, 95%",10,92,10.87
+BA,North Korea,Hamgyong-bukto,2004,3,"Hot spot, 99%",5,92,5.43
+BA,North Korea,Hamgyong-bukto,2005,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2005,-2,"Cold spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2005,-1,"Cold spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2005,0,Not significant,71,92,77.17
+BA,North Korea,Hamgyong-bukto,2005,1,"Hot spot, 90%",4,92,4.35
+BA,North Korea,Hamgyong-bukto,2005,2,"Hot spot, 95%",12,92,13.04
+BA,North Korea,Hamgyong-bukto,2005,3,"Hot spot, 99%",5,92,5.43
+BA,North Korea,Hamgyong-bukto,2006,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2006,-2,"Cold spot, 95%",12,92,13.04
+BA,North Korea,Hamgyong-bukto,2006,-1,"Cold spot, 90%",48,92,52.17
+BA,North Korea,Hamgyong-bukto,2006,0,Not significant,32,92,34.78
+BA,North Korea,Hamgyong-bukto,2006,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2006,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2006,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2007,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2007,-2,"Cold spot, 95%",21,92,22.83
+BA,North Korea,Hamgyong-bukto,2007,-1,"Cold spot, 90%",44,92,47.83
+BA,North Korea,Hamgyong-bukto,2007,0,Not significant,27,92,29.35
+BA,North Korea,Hamgyong-bukto,2007,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2007,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2007,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2008,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2008,-2,"Cold spot, 95%",2,92,2.17
+BA,North Korea,Hamgyong-bukto,2008,-1,"Cold spot, 90%",48,92,52.17
+BA,North Korea,Hamgyong-bukto,2008,0,Not significant,42,92,45.65
+BA,North Korea,Hamgyong-bukto,2008,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2008,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2008,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2009,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2009,-2,"Cold spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2009,-1,"Cold spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2009,0,Not significant,92,92,100.0
+BA,North Korea,Hamgyong-bukto,2009,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2009,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2009,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2010,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2010,-2,"Cold spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2010,-1,"Cold spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2010,0,Not significant,92,92,100.0
+BA,North Korea,Hamgyong-bukto,2010,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2010,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2010,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2011,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2011,-2,"Cold spot, 95%",20,92,21.74
+BA,North Korea,Hamgyong-bukto,2011,-1,"Cold spot, 90%",46,92,50.0
+BA,North Korea,Hamgyong-bukto,2011,0,Not significant,26,92,28.26
+BA,North Korea,Hamgyong-bukto,2011,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2011,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2011,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2012,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2012,-2,"Cold spot, 95%",20,92,21.74
+BA,North Korea,Hamgyong-bukto,2012,-1,"Cold spot, 90%",45,92,48.91
+BA,North Korea,Hamgyong-bukto,2012,0,Not significant,27,92,29.35
+BA,North Korea,Hamgyong-bukto,2012,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2012,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2012,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2013,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2013,-2,"Cold spot, 95%",16,92,17.39
+BA,North Korea,Hamgyong-bukto,2013,-1,"Cold spot, 90%",57,92,61.96
+BA,North Korea,Hamgyong-bukto,2013,0,Not significant,19,92,20.65
+BA,North Korea,Hamgyong-bukto,2013,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2013,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2013,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2014,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2014,-2,"Cold spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2014,-1,"Cold spot, 90%",16,92,17.39
+BA,North Korea,Hamgyong-bukto,2014,0,Not significant,76,92,82.61
+BA,North Korea,Hamgyong-bukto,2014,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2014,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2014,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2015,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2015,-2,"Cold spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2015,-1,"Cold spot, 90%",19,92,20.65
+BA,North Korea,Hamgyong-bukto,2015,0,Not significant,73,92,79.35
+BA,North Korea,Hamgyong-bukto,2015,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2015,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2015,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2016,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2016,-2,"Cold spot, 95%",34,92,36.96
+BA,North Korea,Hamgyong-bukto,2016,-1,"Cold spot, 90%",50,92,54.35
+BA,North Korea,Hamgyong-bukto,2016,0,Not significant,8,92,8.7
+BA,North Korea,Hamgyong-bukto,2016,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2016,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2016,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2017,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2017,-2,"Cold spot, 95%",12,92,13.04
+BA,North Korea,Hamgyong-bukto,2017,-1,"Cold spot, 90%",32,92,34.78
+BA,North Korea,Hamgyong-bukto,2017,0,Not significant,48,92,52.17
+BA,North Korea,Hamgyong-bukto,2017,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2017,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2017,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2018,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2018,-2,"Cold spot, 95%",13,92,14.13
+BA,North Korea,Hamgyong-bukto,2018,-1,"Cold spot, 90%",23,92,25.0
+BA,North Korea,Hamgyong-bukto,2018,0,Not significant,56,92,60.87
+BA,North Korea,Hamgyong-bukto,2018,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2018,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2018,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2019,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2019,-2,"Cold spot, 95%",36,92,39.13
+BA,North Korea,Hamgyong-bukto,2019,-1,"Cold spot, 90%",40,92,43.48
+BA,North Korea,Hamgyong-bukto,2019,0,Not significant,16,92,17.39
+BA,North Korea,Hamgyong-bukto,2019,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2019,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2019,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2020,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2020,-2,"Cold spot, 95%",38,92,41.3
+BA,North Korea,Hamgyong-bukto,2020,-1,"Cold spot, 90%",38,92,41.3
+BA,North Korea,Hamgyong-bukto,2020,0,Not significant,16,92,17.39
+BA,North Korea,Hamgyong-bukto,2020,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2020,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2020,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2021,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2021,-2,"Cold spot, 95%",39,92,42.39
+BA,North Korea,Hamgyong-bukto,2021,-1,"Cold spot, 90%",42,92,45.65
+BA,North Korea,Hamgyong-bukto,2021,0,Not significant,11,92,11.96
+BA,North Korea,Hamgyong-bukto,2021,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2021,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2021,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2022,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2022,-2,"Cold spot, 95%",42,92,45.65
+BA,North Korea,Hamgyong-bukto,2022,-1,"Cold spot, 90%",44,92,47.83
+BA,North Korea,Hamgyong-bukto,2022,0,Not significant,6,92,6.52
+BA,North Korea,Hamgyong-bukto,2022,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2022,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2022,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2023,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2023,-2,"Cold spot, 95%",25,92,27.17
+BA,North Korea,Hamgyong-bukto,2023,-1,"Cold spot, 90%",49,92,53.26
+BA,North Korea,Hamgyong-bukto,2023,0,Not significant,18,92,19.57
+BA,North Korea,Hamgyong-bukto,2023,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2023,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2023,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2024,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2024,-2,"Cold spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2024,-1,"Cold spot, 90%",12,92,13.04
+BA,North Korea,Hamgyong-bukto,2024,0,Not significant,80,92,86.96
+BA,North Korea,Hamgyong-bukto,2024,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2024,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2024,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2025,-3,"Cold spot, 99%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2025,-2,"Cold spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2025,-1,"Cold spot, 90%",24,92,26.09
+BA,North Korea,Hamgyong-bukto,2025,0,Not significant,68,92,73.91
+BA,North Korea,Hamgyong-bukto,2025,1,"Hot spot, 90%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2025,2,"Hot spot, 95%",0,92,0.0
+BA,North Korea,Hamgyong-bukto,2025,3,"Hot spot, 99%",0,92,0.0
+BA,North Korea,Yanggang-do,2001,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2001,-2,"Cold spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2001,-1,"Cold spot, 90%",8,90,8.89
+BA,North Korea,Yanggang-do,2001,0,Not significant,82,90,91.11
+BA,North Korea,Yanggang-do,2001,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2001,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2001,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2002,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2002,-2,"Cold spot, 95%",47,90,52.22
+BA,North Korea,Yanggang-do,2002,-1,"Cold spot, 90%",33,90,36.67
+BA,North Korea,Yanggang-do,2002,0,Not significant,10,90,11.11
+BA,North Korea,Yanggang-do,2002,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2002,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2002,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2003,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2003,-2,"Cold spot, 95%",60,90,66.67
+BA,North Korea,Yanggang-do,2003,-1,"Cold spot, 90%",21,90,23.33
+BA,North Korea,Yanggang-do,2003,0,Not significant,9,90,10.0
+BA,North Korea,Yanggang-do,2003,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2003,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2003,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2004,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2004,-2,"Cold spot, 95%",24,90,26.67
+BA,North Korea,Yanggang-do,2004,-1,"Cold spot, 90%",35,90,38.89
+BA,North Korea,Yanggang-do,2004,0,Not significant,31,90,34.44
+BA,North Korea,Yanggang-do,2004,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2004,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2004,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2005,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2005,-2,"Cold spot, 95%",16,90,17.78
+BA,North Korea,Yanggang-do,2005,-1,"Cold spot, 90%",42,90,46.67
+BA,North Korea,Yanggang-do,2005,0,Not significant,32,90,35.56
+BA,North Korea,Yanggang-do,2005,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2005,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2005,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2006,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2006,-2,"Cold spot, 95%",51,90,56.67
+BA,North Korea,Yanggang-do,2006,-1,"Cold spot, 90%",26,90,28.89
+BA,North Korea,Yanggang-do,2006,0,Not significant,13,90,14.44
+BA,North Korea,Yanggang-do,2006,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2006,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2006,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2007,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2007,-2,"Cold spot, 95%",58,90,64.44
+BA,North Korea,Yanggang-do,2007,-1,"Cold spot, 90%",19,90,21.11
+BA,North Korea,Yanggang-do,2007,0,Not significant,13,90,14.44
+BA,North Korea,Yanggang-do,2007,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2007,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2007,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2008,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2008,-2,"Cold spot, 95%",2,90,2.22
+BA,North Korea,Yanggang-do,2008,-1,"Cold spot, 90%",64,90,71.11
+BA,North Korea,Yanggang-do,2008,0,Not significant,24,90,26.67
+BA,North Korea,Yanggang-do,2008,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2008,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2008,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2009,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2009,-2,"Cold spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2009,-1,"Cold spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2009,0,Not significant,90,90,100.0
+BA,North Korea,Yanggang-do,2009,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2009,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2009,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2010,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2010,-2,"Cold spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2010,-1,"Cold spot, 90%",1,90,1.11
+BA,North Korea,Yanggang-do,2010,0,Not significant,89,90,98.89
+BA,North Korea,Yanggang-do,2010,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2010,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2010,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2011,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2011,-2,"Cold spot, 95%",59,90,65.56
+BA,North Korea,Yanggang-do,2011,-1,"Cold spot, 90%",22,90,24.44
+BA,North Korea,Yanggang-do,2011,0,Not significant,9,90,10.0
+BA,North Korea,Yanggang-do,2011,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2011,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2011,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2012,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2012,-2,"Cold spot, 95%",59,90,65.56
+BA,North Korea,Yanggang-do,2012,-1,"Cold spot, 90%",22,90,24.44
+BA,North Korea,Yanggang-do,2012,0,Not significant,9,90,10.0
+BA,North Korea,Yanggang-do,2012,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2012,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2012,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2013,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2013,-2,"Cold spot, 95%",26,90,28.89
+BA,North Korea,Yanggang-do,2013,-1,"Cold spot, 90%",42,90,46.67
+BA,North Korea,Yanggang-do,2013,0,Not significant,22,90,24.44
+BA,North Korea,Yanggang-do,2013,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2013,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2013,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2014,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2014,-2,"Cold spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2014,-1,"Cold spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2014,0,Not significant,35,90,38.89
+BA,North Korea,Yanggang-do,2014,1,"Hot spot, 90%",7,90,7.78
+BA,North Korea,Yanggang-do,2014,2,"Hot spot, 95%",33,90,36.67
+BA,North Korea,Yanggang-do,2014,3,"Hot spot, 99%",15,90,16.67
+BA,North Korea,Yanggang-do,2015,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2015,-2,"Cold spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2015,-1,"Cold spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2015,0,Not significant,44,90,48.89
+BA,North Korea,Yanggang-do,2015,1,"Hot spot, 90%",17,90,18.89
+BA,North Korea,Yanggang-do,2015,2,"Hot spot, 95%",23,90,25.56
+BA,North Korea,Yanggang-do,2015,3,"Hot spot, 99%",6,90,6.67
+BA,North Korea,Yanggang-do,2016,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2016,-2,"Cold spot, 95%",61,90,67.78
+BA,North Korea,Yanggang-do,2016,-1,"Cold spot, 90%",21,90,23.33
+BA,North Korea,Yanggang-do,2016,0,Not significant,8,90,8.89
+BA,North Korea,Yanggang-do,2016,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2016,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2016,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2017,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2017,-2,"Cold spot, 95%",56,90,62.22
+BA,North Korea,Yanggang-do,2017,-1,"Cold spot, 90%",21,90,23.33
+BA,North Korea,Yanggang-do,2017,0,Not significant,13,90,14.44
+BA,North Korea,Yanggang-do,2017,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2017,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2017,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2018,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2018,-2,"Cold spot, 95%",55,90,61.11
+BA,North Korea,Yanggang-do,2018,-1,"Cold spot, 90%",20,90,22.22
+BA,North Korea,Yanggang-do,2018,0,Not significant,15,90,16.67
+BA,North Korea,Yanggang-do,2018,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2018,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2018,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2019,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2019,-2,"Cold spot, 95%",59,90,65.56
+BA,North Korea,Yanggang-do,2019,-1,"Cold spot, 90%",22,90,24.44
+BA,North Korea,Yanggang-do,2019,0,Not significant,9,90,10.0
+BA,North Korea,Yanggang-do,2019,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2019,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2019,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2020,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2020,-2,"Cold spot, 95%",62,90,68.89
+BA,North Korea,Yanggang-do,2020,-1,"Cold spot, 90%",20,90,22.22
+BA,North Korea,Yanggang-do,2020,0,Not significant,8,90,8.89
+BA,North Korea,Yanggang-do,2020,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2020,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2020,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2021,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2021,-2,"Cold spot, 95%",62,90,68.89
+BA,North Korea,Yanggang-do,2021,-1,"Cold spot, 90%",21,90,23.33
+BA,North Korea,Yanggang-do,2021,0,Not significant,7,90,7.78
+BA,North Korea,Yanggang-do,2021,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2021,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2021,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2022,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2022,-2,"Cold spot, 95%",62,90,68.89
+BA,North Korea,Yanggang-do,2022,-1,"Cold spot, 90%",21,90,23.33
+BA,North Korea,Yanggang-do,2022,0,Not significant,7,90,7.78
+BA,North Korea,Yanggang-do,2022,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2022,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2022,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2023,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2023,-2,"Cold spot, 95%",60,90,66.67
+BA,North Korea,Yanggang-do,2023,-1,"Cold spot, 90%",23,90,25.56
+BA,North Korea,Yanggang-do,2023,0,Not significant,7,90,7.78
+BA,North Korea,Yanggang-do,2023,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2023,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2023,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2024,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2024,-2,"Cold spot, 95%",5,90,5.56
+BA,North Korea,Yanggang-do,2024,-1,"Cold spot, 90%",36,90,40.0
+BA,North Korea,Yanggang-do,2024,0,Not significant,49,90,54.44
+BA,North Korea,Yanggang-do,2024,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2024,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2024,3,"Hot spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2025,-3,"Cold spot, 99%",0,90,0.0
+BA,North Korea,Yanggang-do,2025,-2,"Cold spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2025,-1,"Cold spot, 90%",3,90,3.33
+BA,North Korea,Yanggang-do,2025,0,Not significant,87,90,96.67
+BA,North Korea,Yanggang-do,2025,1,"Hot spot, 90%",0,90,0.0
+BA,North Korea,Yanggang-do,2025,2,"Hot spot, 95%",0,90,0.0
+BA,North Korea,Yanggang-do,2025,3,"Hot spot, 99%",0,90,0.0
+BA,Russia,Khabarovskiy,2001,-3,"Cold spot, 99%",0,1064,0.0
+BA,Russia,Khabarovskiy,2001,-2,"Cold spot, 95%",5,1064,0.47
+BA,Russia,Khabarovskiy,2001,-1,"Cold spot, 90%",255,1064,23.97
+BA,Russia,Khabarovskiy,2001,0,Not significant,449,1064,42.2
+BA,Russia,Khabarovskiy,2001,1,"Hot spot, 90%",13,1064,1.22
+BA,Russia,Khabarovskiy,2001,2,"Hot spot, 95%",21,1064,1.97
+BA,Russia,Khabarovskiy,2001,3,"Hot spot, 99%",321,1064,30.17
+BA,Russia,Khabarovskiy,2002,-3,"Cold spot, 99%",32,1064,3.01
+BA,Russia,Khabarovskiy,2002,-2,"Cold spot, 95%",128,1064,12.03
+BA,Russia,Khabarovskiy,2002,-1,"Cold spot, 90%",158,1064,14.85
+BA,Russia,Khabarovskiy,2002,0,Not significant,364,1064,34.21
+BA,Russia,Khabarovskiy,2002,1,"Hot spot, 90%",23,1064,2.16
+BA,Russia,Khabarovskiy,2002,2,"Hot spot, 95%",24,1064,2.26
+BA,Russia,Khabarovskiy,2002,3,"Hot spot, 99%",335,1064,31.48
+BA,Russia,Khabarovskiy,2003,-3,"Cold spot, 99%",0,1064,0.0
+BA,Russia,Khabarovskiy,2003,-2,"Cold spot, 95%",2,1064,0.19
+BA,Russia,Khabarovskiy,2003,-1,"Cold spot, 90%",28,1064,2.63
+BA,Russia,Khabarovskiy,2003,0,Not significant,491,1064,46.15
+BA,Russia,Khabarovskiy,2003,1,"Hot spot, 90%",38,1064,3.57
+BA,Russia,Khabarovskiy,2003,2,"Hot spot, 95%",75,1064,7.05
+BA,Russia,Khabarovskiy,2003,3,"Hot spot, 99%",430,1064,40.41
+BA,Russia,Khabarovskiy,2004,-3,"Cold spot, 99%",0,1064,0.0
+BA,Russia,Khabarovskiy,2004,-2,"Cold spot, 95%",27,1064,2.54
+BA,Russia,Khabarovskiy,2004,-1,"Cold spot, 90%",47,1064,4.42
+BA,Russia,Khabarovskiy,2004,0,Not significant,661,1064,62.12
+BA,Russia,Khabarovskiy,2004,1,"Hot spot, 90%",40,1064,3.76
+BA,Russia,Khabarovskiy,2004,2,"Hot spot, 95%",71,1064,6.67
+BA,Russia,Khabarovskiy,2004,3,"Hot spot, 99%",218,1064,20.49
+BA,Russia,Khabarovskiy,2005,-3,"Cold spot, 99%",16,1064,1.5
+BA,Russia,Khabarovskiy,2005,-2,"Cold spot, 95%",147,1064,13.82
+BA,Russia,Khabarovskiy,2005,-1,"Cold spot, 90%",80,1064,7.52
+BA,Russia,Khabarovskiy,2005,0,Not significant,585,1064,54.98
+BA,Russia,Khabarovskiy,2005,1,"Hot spot, 90%",23,1064,2.16
+BA,Russia,Khabarovskiy,2005,2,"Hot spot, 95%",13,1064,1.22
+BA,Russia,Khabarovskiy,2005,3,"Hot spot, 99%",200,1064,18.8
+BA,Russia,Khabarovskiy,2006,-3,"Cold spot, 99%",2,1064,0.19
+BA,Russia,Khabarovskiy,2006,-2,"Cold spot, 95%",131,1064,12.31
+BA,Russia,Khabarovskiy,2006,-1,"Cold spot, 90%",98,1064,9.21
+BA,Russia,Khabarovskiy,2006,0,Not significant,548,1064,51.5
+BA,Russia,Khabarovskiy,2006,1,"Hot spot, 90%",31,1064,2.91
+BA,Russia,Khabarovskiy,2006,2,"Hot spot, 95%",32,1064,3.01
+BA,Russia,Khabarovskiy,2006,3,"Hot spot, 99%",222,1064,20.86
+BA,Russia,Khabarovskiy,2007,-3,"Cold spot, 99%",0,1064,0.0
+BA,Russia,Khabarovskiy,2007,-2,"Cold spot, 95%",85,1064,7.99
+BA,Russia,Khabarovskiy,2007,-1,"Cold spot, 90%",90,1064,8.46
+BA,Russia,Khabarovskiy,2007,0,Not significant,889,1064,83.55
+BA,Russia,Khabarovskiy,2007,1,"Hot spot, 90%",0,1064,0.0
+BA,Russia,Khabarovskiy,2007,2,"Hot spot, 95%",0,1064,0.0
+BA,Russia,Khabarovskiy,2007,3,"Hot spot, 99%",0,1064,0.0
+BA,Russia,Khabarovskiy,2008,-3,"Cold spot, 99%",0,1064,0.0
+BA,Russia,Khabarovskiy,2008,-2,"Cold spot, 95%",36,1064,3.38
+BA,Russia,Khabarovskiy,2008,-1,"Cold spot, 90%",49,1064,4.61
+BA,Russia,Khabarovskiy,2008,0,Not significant,529,1064,49.72
+BA,Russia,Khabarovskiy,2008,1,"Hot spot, 90%",20,1064,1.88
+BA,Russia,Khabarovskiy,2008,2,"Hot spot, 95%",20,1064,1.88
+BA,Russia,Khabarovskiy,2008,3,"Hot spot, 99%",410,1064,38.53
+BA,Russia,Khabarovskiy,2009,-3,"Cold spot, 99%",0,1064,0.0
+BA,Russia,Khabarovskiy,2009,-2,"Cold spot, 95%",98,1064,9.21
+BA,Russia,Khabarovskiy,2009,-1,"Cold spot, 90%",133,1064,12.5
+BA,Russia,Khabarovskiy,2009,0,Not significant,392,1064,36.84
+BA,Russia,Khabarovskiy,2009,1,"Hot spot, 90%",4,1064,0.38
+BA,Russia,Khabarovskiy,2009,2,"Hot spot, 95%",15,1064,1.41
+BA,Russia,Khabarovskiy,2009,3,"Hot spot, 99%",422,1064,39.66
+BA,Russia,Khabarovskiy,2010,-3,"Cold spot, 99%",45,1064,4.23
+BA,Russia,Khabarovskiy,2010,-2,"Cold spot, 95%",275,1064,25.85
+BA,Russia,Khabarovskiy,2010,-1,"Cold spot, 90%",180,1064,16.92
+BA,Russia,Khabarovskiy,2010,0,Not significant,234,1064,21.99
+BA,Russia,Khabarovskiy,2010,1,"Hot spot, 90%",19,1064,1.79
+BA,Russia,Khabarovskiy,2010,2,"Hot spot, 95%",45,1064,4.23
+BA,Russia,Khabarovskiy,2010,3,"Hot spot, 99%",266,1064,25.0
+BA,Russia,Khabarovskiy,2011,-3,"Cold spot, 99%",56,1064,5.26
+BA,Russia,Khabarovskiy,2011,-2,"Cold spot, 95%",353,1064,33.18
+BA,Russia,Khabarovskiy,2011,-1,"Cold spot, 90%",269,1064,25.28
+BA,Russia,Khabarovskiy,2011,0,Not significant,386,1064,36.28
+BA,Russia,Khabarovskiy,2011,1,"Hot spot, 90%",0,1064,0.0
+BA,Russia,Khabarovskiy,2011,2,"Hot spot, 95%",0,1064,0.0
+BA,Russia,Khabarovskiy,2011,3,"Hot spot, 99%",0,1064,0.0
+BA,Russia,Khabarovskiy,2012,-3,"Cold spot, 99%",0,1064,0.0
+BA,Russia,Khabarovskiy,2012,-2,"Cold spot, 95%",30,1064,2.82
+BA,Russia,Khabarovskiy,2012,-1,"Cold spot, 90%",39,1064,3.67
+BA,Russia,Khabarovskiy,2012,0,Not significant,738,1064,69.36
+BA,Russia,Khabarovskiy,2012,1,"Hot spot, 90%",47,1064,4.42
+BA,Russia,Khabarovskiy,2012,2,"Hot spot, 95%",14,1064,1.32
+BA,Russia,Khabarovskiy,2012,3,"Hot spot, 99%",196,1064,18.42
+BA,Russia,Khabarovskiy,2013,-3,"Cold spot, 99%",0,1064,0.0
+BA,Russia,Khabarovskiy,2013,-2,"Cold spot, 95%",23,1064,2.16
+BA,Russia,Khabarovskiy,2013,-1,"Cold spot, 90%",37,1064,3.48
+BA,Russia,Khabarovskiy,2013,0,Not significant,603,1064,56.67
+BA,Russia,Khabarovskiy,2013,1,"Hot spot, 90%",11,1064,1.03
+BA,Russia,Khabarovskiy,2013,2,"Hot spot, 95%",28,1064,2.63
+BA,Russia,Khabarovskiy,2013,3,"Hot spot, 99%",362,1064,34.02
+BA,Russia,Khabarovskiy,2014,-3,"Cold spot, 99%",60,1064,5.64
+BA,Russia,Khabarovskiy,2014,-2,"Cold spot, 95%",342,1064,32.14
+BA,Russia,Khabarovskiy,2014,-1,"Cold spot, 90%",154,1064,14.47
+BA,Russia,Khabarovskiy,2014,0,Not significant,241,1064,22.65
+BA,Russia,Khabarovskiy,2014,1,"Hot spot, 90%",3,1064,0.28
+BA,Russia,Khabarovskiy,2014,2,"Hot spot, 95%",13,1064,1.22
+BA,Russia,Khabarovskiy,2014,3,"Hot spot, 99%",251,1064,23.59
+BA,Russia,Khabarovskiy,2015,-3,"Cold spot, 99%",111,1064,10.43
+BA,Russia,Khabarovskiy,2015,-2,"Cold spot, 95%",418,1064,39.29
+BA,Russia,Khabarovskiy,2015,-1,"Cold spot, 90%",141,1064,13.25
+BA,Russia,Khabarovskiy,2015,0,Not significant,245,1064,23.03
+BA,Russia,Khabarovskiy,2015,1,"Hot spot, 90%",15,1064,1.41
+BA,Russia,Khabarovskiy,2015,2,"Hot spot, 95%",19,1064,1.79
+BA,Russia,Khabarovskiy,2015,3,"Hot spot, 99%",115,1064,10.81
+BA,Russia,Khabarovskiy,2016,-3,"Cold spot, 99%",130,1064,12.22
+BA,Russia,Khabarovskiy,2016,-2,"Cold spot, 95%",493,1064,46.33
+BA,Russia,Khabarovskiy,2016,-1,"Cold spot, 90%",141,1064,13.25
+BA,Russia,Khabarovskiy,2016,0,Not significant,290,1064,27.26
+BA,Russia,Khabarovskiy,2016,1,"Hot spot, 90%",10,1064,0.94
+BA,Russia,Khabarovskiy,2016,2,"Hot spot, 95%",0,1064,0.0
+BA,Russia,Khabarovskiy,2016,3,"Hot spot, 99%",0,1064,0.0
+BA,Russia,Khabarovskiy,2017,-3,"Cold spot, 99%",53,1064,4.98
+BA,Russia,Khabarovskiy,2017,-2,"Cold spot, 95%",562,1064,52.82
+BA,Russia,Khabarovskiy,2017,-1,"Cold spot, 90%",108,1064,10.15
+BA,Russia,Khabarovskiy,2017,0,Not significant,282,1064,26.5
+BA,Russia,Khabarovskiy,2017,1,"Hot spot, 90%",14,1064,1.32
+BA,Russia,Khabarovskiy,2017,2,"Hot spot, 95%",41,1064,3.85
+BA,Russia,Khabarovskiy,2017,3,"Hot spot, 99%",4,1064,0.38
+BA,Russia,Khabarovskiy,2018,-3,"Cold spot, 99%",80,1064,7.52
+BA,Russia,Khabarovskiy,2018,-2,"Cold spot, 95%",496,1064,46.62
+BA,Russia,Khabarovskiy,2018,-1,"Cold spot, 90%",120,1064,11.28
+BA,Russia,Khabarovskiy,2018,0,Not significant,233,1064,21.9
+BA,Russia,Khabarovskiy,2018,1,"Hot spot, 90%",2,1064,0.19
+BA,Russia,Khabarovskiy,2018,2,"Hot spot, 95%",16,1064,1.5
+BA,Russia,Khabarovskiy,2018,3,"Hot spot, 99%",117,1064,11.0
+BA,Russia,Khabarovskiy,2019,-3,"Cold spot, 99%",22,1064,2.07
+BA,Russia,Khabarovskiy,2019,-2,"Cold spot, 95%",268,1064,25.19
+BA,Russia,Khabarovskiy,2019,-1,"Cold spot, 90%",118,1064,11.09
+BA,Russia,Khabarovskiy,2019,0,Not significant,431,1064,40.51
+BA,Russia,Khabarovskiy,2019,1,"Hot spot, 90%",19,1064,1.79
+BA,Russia,Khabarovskiy,2019,2,"Hot spot, 95%",26,1064,2.44
+BA,Russia,Khabarovskiy,2019,3,"Hot spot, 99%",180,1064,16.92
+BA,Russia,Khabarovskiy,2020,-3,"Cold spot, 99%",75,1064,7.05
+BA,Russia,Khabarovskiy,2020,-2,"Cold spot, 95%",246,1064,23.12
+BA,Russia,Khabarovskiy,2020,-1,"Cold spot, 90%",122,1064,11.47
+BA,Russia,Khabarovskiy,2020,0,Not significant,438,1064,41.17
+BA,Russia,Khabarovskiy,2020,1,"Hot spot, 90%",19,1064,1.79
+BA,Russia,Khabarovskiy,2020,2,"Hot spot, 95%",26,1064,2.44
+BA,Russia,Khabarovskiy,2020,3,"Hot spot, 99%",138,1064,12.97
+BA,Russia,Khabarovskiy,2021,-3,"Cold spot, 99%",336,1064,31.58
+BA,Russia,Khabarovskiy,2021,-2,"Cold spot, 95%",432,1064,40.6
+BA,Russia,Khabarovskiy,2021,-1,"Cold spot, 90%",139,1064,13.06
+BA,Russia,Khabarovskiy,2021,0,Not significant,157,1064,14.76
+BA,Russia,Khabarovskiy,2021,1,"Hot spot, 90%",0,1064,0.0
+BA,Russia,Khabarovskiy,2021,2,"Hot spot, 95%",0,1064,0.0
+BA,Russia,Khabarovskiy,2021,3,"Hot spot, 99%",0,1064,0.0
+BA,Russia,Khabarovskiy,2022,-3,"Cold spot, 99%",340,1064,31.95
+BA,Russia,Khabarovskiy,2022,-2,"Cold spot, 95%",413,1064,38.82
+BA,Russia,Khabarovskiy,2022,-1,"Cold spot, 90%",171,1064,16.07
+BA,Russia,Khabarovskiy,2022,0,Not significant,140,1064,13.16
+BA,Russia,Khabarovskiy,2022,1,"Hot spot, 90%",0,1064,0.0
+BA,Russia,Khabarovskiy,2022,2,"Hot spot, 95%",0,1064,0.0
+BA,Russia,Khabarovskiy,2022,3,"Hot spot, 99%",0,1064,0.0
+BA,Russia,Khabarovskiy,2023,-3,"Cold spot, 99%",171,1064,16.07
+BA,Russia,Khabarovskiy,2023,-2,"Cold spot, 95%",477,1064,44.83
+BA,Russia,Khabarovskiy,2023,-1,"Cold spot, 90%",170,1064,15.98
+BA,Russia,Khabarovskiy,2023,0,Not significant,204,1064,19.17
+BA,Russia,Khabarovskiy,2023,1,"Hot spot, 90%",15,1064,1.41
+BA,Russia,Khabarovskiy,2023,2,"Hot spot, 95%",21,1064,1.97
+BA,Russia,Khabarovskiy,2023,3,"Hot spot, 99%",6,1064,0.56
+BA,Russia,Khabarovskiy,2024,-3,"Cold spot, 99%",97,1064,9.12
+BA,Russia,Khabarovskiy,2024,-2,"Cold spot, 95%",432,1064,40.6
+BA,Russia,Khabarovskiy,2024,-1,"Cold spot, 90%",155,1064,14.57
+BA,Russia,Khabarovskiy,2024,0,Not significant,321,1064,30.17
+BA,Russia,Khabarovskiy,2024,1,"Hot spot, 90%",3,1064,0.28
+BA,Russia,Khabarovskiy,2024,2,"Hot spot, 95%",15,1064,1.41
+BA,Russia,Khabarovskiy,2024,3,"Hot spot, 99%",41,1064,3.85
+BA,Russia,Khabarovskiy,2025,-3,"Cold spot, 99%",109,1064,10.24
+BA,Russia,Khabarovskiy,2025,-2,"Cold spot, 95%",596,1064,56.02
+BA,Russia,Khabarovskiy,2025,-1,"Cold spot, 90%",156,1064,14.66
+BA,Russia,Khabarovskiy,2025,0,Not significant,203,1064,19.08
+BA,Russia,Khabarovskiy,2025,1,"Hot spot, 90%",0,1064,0.0
+BA,Russia,Khabarovskiy,2025,2,"Hot spot, 95%",0,1064,0.0
+BA,Russia,Khabarovskiy,2025,3,"Hot spot, 99%",0,1064,0.0
+BA,Russia,Primorskiy,2001,-3,"Cold spot, 99%",0,829,0.0
+BA,Russia,Primorskiy,2001,-2,"Cold spot, 95%",0,829,0.0
+BA,Russia,Primorskiy,2001,-1,"Cold spot, 90%",26,829,3.14
+BA,Russia,Primorskiy,2001,0,Not significant,755,829,91.07
+BA,Russia,Primorskiy,2001,1,"Hot spot, 90%",15,829,1.81
+BA,Russia,Primorskiy,2001,2,"Hot spot, 95%",26,829,3.14
+BA,Russia,Primorskiy,2001,3,"Hot spot, 99%",7,829,0.84
+BA,Russia,Primorskiy,2002,-3,"Cold spot, 99%",2,829,0.24
+BA,Russia,Primorskiy,2002,-2,"Cold spot, 95%",133,829,16.04
+BA,Russia,Primorskiy,2002,-1,"Cold spot, 90%",188,829,22.68
+BA,Russia,Primorskiy,2002,0,Not significant,506,829,61.04
+BA,Russia,Primorskiy,2002,1,"Hot spot, 90%",0,829,0.0
+BA,Russia,Primorskiy,2002,2,"Hot spot, 95%",0,829,0.0
+BA,Russia,Primorskiy,2002,3,"Hot spot, 99%",0,829,0.0
+BA,Russia,Primorskiy,2003,-3,"Cold spot, 99%",0,829,0.0
+BA,Russia,Primorskiy,2003,-2,"Cold spot, 95%",4,829,0.48
+BA,Russia,Primorskiy,2003,-1,"Cold spot, 90%",116,829,13.99
+BA,Russia,Primorskiy,2003,0,Not significant,596,829,71.89
+BA,Russia,Primorskiy,2003,1,"Hot spot, 90%",10,829,1.21
+BA,Russia,Primorskiy,2003,2,"Hot spot, 95%",3,829,0.36
+BA,Russia,Primorskiy,2003,3,"Hot spot, 99%",100,829,12.06
+BA,Russia,Primorskiy,2004,-3,"Cold spot, 99%",0,829,0.0
+BA,Russia,Primorskiy,2004,-2,"Cold spot, 95%",0,829,0.0
+BA,Russia,Primorskiy,2004,-1,"Cold spot, 90%",0,829,0.0
+BA,Russia,Primorskiy,2004,0,Not significant,394,829,47.53
+BA,Russia,Primorskiy,2004,1,"Hot spot, 90%",55,829,6.63
+BA,Russia,Primorskiy,2004,2,"Hot spot, 95%",77,829,9.29
+BA,Russia,Primorskiy,2004,3,"Hot spot, 99%",303,829,36.55
+BA,Russia,Primorskiy,2005,-3,"Cold spot, 99%",0,829,0.0
+BA,Russia,Primorskiy,2005,-2,"Cold spot, 95%",20,829,2.41
+BA,Russia,Primorskiy,2005,-1,"Cold spot, 90%",34,829,4.1
+BA,Russia,Primorskiy,2005,0,Not significant,378,829,45.6
+BA,Russia,Primorskiy,2005,1,"Hot spot, 90%",32,829,3.86
+BA,Russia,Primorskiy,2005,2,"Hot spot, 95%",111,829,13.39
+BA,Russia,Primorskiy,2005,3,"Hot spot, 99%",254,829,30.64
+BA,Russia,Primorskiy,2006,-3,"Cold spot, 99%",0,829,0.0
+BA,Russia,Primorskiy,2006,-2,"Cold spot, 95%",49,829,5.91
+BA,Russia,Primorskiy,2006,-1,"Cold spot, 90%",98,829,11.82
+BA,Russia,Primorskiy,2006,0,Not significant,374,829,45.11
+BA,Russia,Primorskiy,2006,1,"Hot spot, 90%",33,829,3.98
+BA,Russia,Primorskiy,2006,2,"Hot spot, 95%",52,829,6.27
+BA,Russia,Primorskiy,2006,3,"Hot spot, 99%",223,829,26.9
+BA,Russia,Primorskiy,2007,-3,"Cold spot, 99%",0,829,0.0
+BA,Russia,Primorskiy,2007,-2,"Cold spot, 95%",43,829,5.19
+BA,Russia,Primorskiy,2007,-1,"Cold spot, 90%",111,829,13.39
+BA,Russia,Primorskiy,2007,0,Not significant,502,829,60.55
+BA,Russia,Primorskiy,2007,1,"Hot spot, 90%",48,829,5.79
+BA,Russia,Primorskiy,2007,2,"Hot spot, 95%",61,829,7.36
+BA,Russia,Primorskiy,2007,3,"Hot spot, 99%",64,829,7.72
+BA,Russia,Primorskiy,2008,-3,"Cold spot, 99%",0,829,0.0
+BA,Russia,Primorskiy,2008,-2,"Cold spot, 95%",22,829,2.65
+BA,Russia,Primorskiy,2008,-1,"Cold spot, 90%",50,829,6.03
+BA,Russia,Primorskiy,2008,0,Not significant,312,829,37.64
+BA,Russia,Primorskiy,2008,1,"Hot spot, 90%",38,829,4.58
+BA,Russia,Primorskiy,2008,2,"Hot spot, 95%",51,829,6.15
+BA,Russia,Primorskiy,2008,3,"Hot spot, 99%",356,829,42.94
+BA,Russia,Primorskiy,2009,-3,"Cold spot, 99%",0,829,0.0
+BA,Russia,Primorskiy,2009,-2,"Cold spot, 95%",24,829,2.9
+BA,Russia,Primorskiy,2009,-1,"Cold spot, 90%",53,829,6.39
+BA,Russia,Primorskiy,2009,0,Not significant,198,829,23.88
+BA,Russia,Primorskiy,2009,1,"Hot spot, 90%",5,829,0.6
+BA,Russia,Primorskiy,2009,2,"Hot spot, 95%",24,829,2.9
+BA,Russia,Primorskiy,2009,3,"Hot spot, 99%",525,829,63.33
+BA,Russia,Primorskiy,2010,-3,"Cold spot, 99%",0,829,0.0
+BA,Russia,Primorskiy,2010,-2,"Cold spot, 95%",33,829,3.98
+BA,Russia,Primorskiy,2010,-1,"Cold spot, 90%",50,829,6.03
+BA,Russia,Primorskiy,2010,0,Not significant,302,829,36.43
+BA,Russia,Primorskiy,2010,1,"Hot spot, 90%",27,829,3.26
+BA,Russia,Primorskiy,2010,2,"Hot spot, 95%",62,829,7.48
+BA,Russia,Primorskiy,2010,3,"Hot spot, 99%",355,829,42.82
+BA,Russia,Primorskiy,2011,-3,"Cold spot, 99%",0,829,0.0
+BA,Russia,Primorskiy,2011,-2,"Cold spot, 95%",36,829,4.34
+BA,Russia,Primorskiy,2011,-1,"Cold spot, 90%",57,829,6.88
+BA,Russia,Primorskiy,2011,0,Not significant,459,829,55.37
+BA,Russia,Primorskiy,2011,1,"Hot spot, 90%",22,829,2.65
+BA,Russia,Primorskiy,2011,2,"Hot spot, 95%",21,829,2.53
+BA,Russia,Primorskiy,2011,3,"Hot spot, 99%",234,829,28.23
+BA,Russia,Primorskiy,2012,-3,"Cold spot, 99%",0,829,0.0
+BA,Russia,Primorskiy,2012,-2,"Cold spot, 95%",64,829,7.72
+BA,Russia,Primorskiy,2012,-1,"Cold spot, 90%",43,829,5.19
+BA,Russia,Primorskiy,2012,0,Not significant,407,829,49.1
+BA,Russia,Primorskiy,2012,1,"Hot spot, 90%",46,829,5.55
+BA,Russia,Primorskiy,2012,2,"Hot spot, 95%",29,829,3.5
+BA,Russia,Primorskiy,2012,3,"Hot spot, 99%",240,829,28.95
+BA,Russia,Primorskiy,2013,-3,"Cold spot, 99%",0,829,0.0
+BA,Russia,Primorskiy,2013,-2,"Cold spot, 95%",178,829,21.47
+BA,Russia,Primorskiy,2013,-1,"Cold spot, 90%",194,829,23.4
+BA,Russia,Primorskiy,2013,0,Not significant,419,829,50.54
+BA,Russia,Primorskiy,2013,1,"Hot spot, 90%",16,829,1.93
+BA,Russia,Primorskiy,2013,2,"Hot spot, 95%",17,829,2.05
+BA,Russia,Primorskiy,2013,3,"Hot spot, 99%",5,829,0.6
+BA,Russia,Primorskiy,2014,-3,"Cold spot, 99%",0,829,0.0
+BA,Russia,Primorskiy,2014,-2,"Cold spot, 95%",43,829,5.19
+BA,Russia,Primorskiy,2014,-1,"Cold spot, 90%",54,829,6.51
+BA,Russia,Primorskiy,2014,0,Not significant,248,829,29.92
+BA,Russia,Primorskiy,2014,1,"Hot spot, 90%",33,829,3.98
+BA,Russia,Primorskiy,2014,2,"Hot spot, 95%",60,829,7.24
+BA,Russia,Primorskiy,2014,3,"Hot spot, 99%",391,829,47.17
+BA,Russia,Primorskiy,2015,-3,"Cold spot, 99%",0,829,0.0
+BA,Russia,Primorskiy,2015,-2,"Cold spot, 95%",45,829,5.43
+BA,Russia,Primorskiy,2015,-1,"Cold spot, 90%",57,829,6.88
+BA,Russia,Primorskiy,2015,0,Not significant,199,829,24.0
+BA,Russia,Primorskiy,2015,1,"Hot spot, 90%",22,829,2.65
+BA,Russia,Primorskiy,2015,2,"Hot spot, 95%",68,829,8.2
+BA,Russia,Primorskiy,2015,3,"Hot spot, 99%",438,829,52.83
+BA,Russia,Primorskiy,2016,-3,"Cold spot, 99%",2,829,0.24
+BA,Russia,Primorskiy,2016,-2,"Cold spot, 95%",172,829,20.75
+BA,Russia,Primorskiy,2016,-1,"Cold spot, 90%",198,829,23.88
+BA,Russia,Primorskiy,2016,0,Not significant,340,829,41.01
+BA,Russia,Primorskiy,2016,1,"Hot spot, 90%",9,829,1.09
+BA,Russia,Primorskiy,2016,2,"Hot spot, 95%",10,829,1.21
+BA,Russia,Primorskiy,2016,3,"Hot spot, 99%",98,829,11.82
+BA,Russia,Primorskiy,2017,-3,"Cold spot, 99%",1,829,0.12
+BA,Russia,Primorskiy,2017,-2,"Cold spot, 95%",50,829,6.03
+BA,Russia,Primorskiy,2017,-1,"Cold spot, 90%",67,829,8.08
+BA,Russia,Primorskiy,2017,0,Not significant,606,829,73.1
+BA,Russia,Primorskiy,2017,1,"Hot spot, 90%",16,829,1.93
+BA,Russia,Primorskiy,2017,2,"Hot spot, 95%",18,829,2.17
+BA,Russia,Primorskiy,2017,3,"Hot spot, 99%",71,829,8.56
+BA,Russia,Primorskiy,2018,-3,"Cold spot, 99%",2,829,0.24
+BA,Russia,Primorskiy,2018,-2,"Cold spot, 95%",38,829,4.58
+BA,Russia,Primorskiy,2018,-1,"Cold spot, 90%",27,829,3.26
+BA,Russia,Primorskiy,2018,0,Not significant,469,829,56.57
+BA,Russia,Primorskiy,2018,1,"Hot spot, 90%",46,829,5.55
+BA,Russia,Primorskiy,2018,2,"Hot spot, 95%",34,829,4.1
+BA,Russia,Primorskiy,2018,3,"Hot spot, 99%",213,829,25.69
+BA,Russia,Primorskiy,2019,-3,"Cold spot, 99%",2,829,0.24
+BA,Russia,Primorskiy,2019,-2,"Cold spot, 95%",62,829,7.48
+BA,Russia,Primorskiy,2019,-1,"Cold spot, 90%",29,829,3.5
+BA,Russia,Primorskiy,2019,0,Not significant,278,829,33.53
+BA,Russia,Primorskiy,2019,1,"Hot spot, 90%",43,829,5.19
+BA,Russia,Primorskiy,2019,2,"Hot spot, 95%",87,829,10.49
+BA,Russia,Primorskiy,2019,3,"Hot spot, 99%",328,829,39.57
+BA,Russia,Primorskiy,2020,-3,"Cold spot, 99%",0,829,0.0
+BA,Russia,Primorskiy,2020,-2,"Cold spot, 95%",64,829,7.72
+BA,Russia,Primorskiy,2020,-1,"Cold spot, 90%",77,829,9.29
+BA,Russia,Primorskiy,2020,0,Not significant,355,829,42.82
+BA,Russia,Primorskiy,2020,1,"Hot spot, 90%",36,829,4.34
+BA,Russia,Primorskiy,2020,2,"Hot spot, 95%",53,829,6.39
+BA,Russia,Primorskiy,2020,3,"Hot spot, 99%",244,829,29.43
+BA,Russia,Primorskiy,2021,-3,"Cold spot, 99%",0,829,0.0
+BA,Russia,Primorskiy,2021,-2,"Cold spot, 95%",55,829,6.63
+BA,Russia,Primorskiy,2021,-1,"Cold spot, 90%",93,829,11.22
+BA,Russia,Primorskiy,2021,0,Not significant,644,829,77.68
+BA,Russia,Primorskiy,2021,1,"Hot spot, 90%",29,829,3.5
+BA,Russia,Primorskiy,2021,2,"Hot spot, 95%",8,829,0.97
+BA,Russia,Primorskiy,2021,3,"Hot spot, 99%",0,829,0.0
+BA,Russia,Primorskiy,2022,-3,"Cold spot, 99%",0,829,0.0
+BA,Russia,Primorskiy,2022,-2,"Cold spot, 95%",58,829,7.0
+BA,Russia,Primorskiy,2022,-1,"Cold spot, 90%",33,829,3.98
+BA,Russia,Primorskiy,2022,0,Not significant,550,829,66.34
+BA,Russia,Primorskiy,2022,1,"Hot spot, 90%",67,829,8.08
+BA,Russia,Primorskiy,2022,2,"Hot spot, 95%",71,829,8.56
+BA,Russia,Primorskiy,2022,3,"Hot spot, 99%",50,829,6.03
+BA,Russia,Primorskiy,2023,-3,"Cold spot, 99%",2,829,0.24
+BA,Russia,Primorskiy,2023,-2,"Cold spot, 95%",64,829,7.72
+BA,Russia,Primorskiy,2023,-1,"Cold spot, 90%",88,829,10.62
+BA,Russia,Primorskiy,2023,0,Not significant,496,829,59.83
+BA,Russia,Primorskiy,2023,1,"Hot spot, 90%",23,829,2.77
+BA,Russia,Primorskiy,2023,2,"Hot spot, 95%",46,829,5.55
+BA,Russia,Primorskiy,2023,3,"Hot spot, 99%",110,829,13.27
+BA,Russia,Primorskiy,2024,-3,"Cold spot, 99%",2,829,0.24
+BA,Russia,Primorskiy,2024,-2,"Cold spot, 95%",241,829,29.07
+BA,Russia,Primorskiy,2024,-1,"Cold spot, 90%",181,829,21.83
+BA,Russia,Primorskiy,2024,0,Not significant,382,829,46.08
+BA,Russia,Primorskiy,2024,1,"Hot spot, 90%",14,829,1.69
+BA,Russia,Primorskiy,2024,2,"Hot spot, 95%",9,829,1.09
+BA,Russia,Primorskiy,2024,3,"Hot spot, 99%",0,829,0.0
+BA,Russia,Primorskiy,2025,-3,"Cold spot, 99%",22,829,2.65
+BA,Russia,Primorskiy,2025,-2,"Cold spot, 95%",508,829,61.28
+BA,Russia,Primorskiy,2025,-1,"Cold spot, 90%",150,829,18.09
+BA,Russia,Primorskiy,2025,0,Not significant,149,829,17.97
+BA,Russia,Primorskiy,2025,1,"Hot spot, 90%",0,829,0.0
+BA,Russia,Primorskiy,2025,2,"Hot spot, 95%",0,829,0.0
+BA,Russia,Primorskiy,2025,3,"Hot spot, 99%",0,829,0.0

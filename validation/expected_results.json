@@ -1,0 +1,72 @@
+{
+  "study_period": [
+    2001,
+    2025
+  ],
+  "fai_peaks_doy": [
+    104,
+    202,
+    288
+  ],
+  "frp": {
+    "annual_fire_count_tau": -0.406667,
+    "annual_median_frp_tau": 0.304861,
+    "annual_median_frp_fdr": 0.044555,
+    "spring_median_frp_tau": 0.473966,
+    "spring_p95_frp_tau": 0.466667
+  },
+  "country_shares": {
+    "Russia_Spring_FC": 92.454453,
+    "Russia_Spring_BA": 98.442349,
+    "Russia_Summer_FC": 98.556701,
+    "Russia_Summer_BA": 99.857201,
+    "Russia_Autumn_FC": 85.884589,
+    "Russia_Autumn_BA": 88.059734
+  },
+  "circulation_rho": {
+    "Spring_BA_Nino34_concurrent": -0.496154,
+    "Spring_BA_Nino34_prewinter": -0.532308,
+    "Summer_FC_Nino34_lag30": -0.512515,
+    "Summer_BA_Nino34_lag60": -0.541675
+  },
+  "admin1": {
+    "Primorskiy_FC_hotspot_years": 23,
+    "Primorskiy_BA_hotspot_years": 23,
+    "Khabarovskiy_FC_sen_slope": -2.0448,
+    "Khabarovskiy_BA_sen_slope": -1.501
+  },
+  "model_comparison": {
+    "temporal_overall_improvement_pct": [
+      10.0,
+      6.6,
+      7.1,
+      3.5,
+      2.1,
+      3.8
+    ],
+    "temporal_positive_improvement_pct": [
+      20.9,
+      21.0,
+      12.3,
+      27.7,
+      6.7,
+      26.6
+    ],
+    "spatial_overall_max_improvement_pct": 24.7,
+    "spatial_overall_min_improvement_pct": -1.0
+  },
+  "sem_total_effects": {
+    "Spring_Topography": -2.381,
+    "Spring_Meteorology": 0.533,
+    "Spring_Vegetation": -0.515,
+    "Spring_Anthropogenic": 0.512,
+    "Summer_Topography": 0.402,
+    "Summer_Meteorology": 1.139,
+    "Summer_Vegetation": -1.312,
+    "Summer_Anthropogenic": 0.158,
+    "Autumn_Topography": -2.289,
+    "Autumn_Meteorology": 1.207,
+    "Autumn_Vegetation": -0.8,
+    "Autumn_Anthropogenic": 0.394
+  }
+}

@@ -1,0 +1,23 @@
+﻿cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated manuscript and this repository."
+title: "How Do Multi-Factor Interactions Shape the Seasonal Dynamics of Forest Fires across the China鈥揘orth Korea鈥揜ussia Transboundary Region?"
+type: software
+version: 1.0.0
+date-released: 2026-07-08
+authors:
+  - family-names: Quan
+    given-names: Donghe
+  - family-names: Wu
+    given-names: Di
+  - family-names: Piao
+    given-names: Chengde
+  - family-names: Zhang
+    given-names: Jiquan
+  - family-names: Quan
+    given-names: Hechun
+  - family-names: Jin
+    given-names: Ri
+  - family-names: Zhu
+    given-names: Weihong
+repository-code: "https://github.com/DongheQuan1227/wildfire-seasonal-dynamics-reproducibility"
+
