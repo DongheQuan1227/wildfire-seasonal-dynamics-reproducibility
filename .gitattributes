@@ -14,3 +14,6 @@
 *.tiff binary
 *.png binary
 *.pdf binary
+
+# Preserve byte-exact analysis-ready inputs for manifest verification
+00_Input_data/*.csv binary
