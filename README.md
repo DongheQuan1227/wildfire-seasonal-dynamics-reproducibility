@@ -117,4 +117,7 @@ Citation metadata are provided in `CITATION.cff`. Add the final article DOI and 
 
 ## License
 
-No reuse license has been selected in this package. The repository owner should choose an appropriate code and data license before public release, taking the source-data terms into account.
+The software code in this repository is released under the MIT License.
+The included analysis-ready data and derived data products remain subject
+to the terms and conditions of their original data providers.
+
