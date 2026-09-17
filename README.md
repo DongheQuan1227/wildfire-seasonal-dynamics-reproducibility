@@ -1,6 +1,6 @@
 # Reproducibility package: seasonal forest-fire dynamics in the China–North Korea–Russia transboundary region
 
-This repository contains the analysis-ready input tables and source code used for the manuscript **“How Do Multi-Factor Interactions Shape the Seasonal Dynamics of Forest Fires across the China–North Korea–Russia Transboundary Region?”** The workflow covers 2001–2025 and reproduces the temporal analyses, FAI-based fire-season delineation, atmospheric-circulation analysis, hotspot summaries, count-regression models, Hurdle Random Forest models, temporal and spatial out-of-fold validation, OOF SHAP interpretation, unified model comparison, and seasonal SEM analyses.
+This repository contains the analysis-ready input tables and source code associated with the published article **“How Do Multi-Factor Interactions Shape the Seasonal Dynamics of Forest Fires across the China–North Korea–Russia Transboundary Region?”** The workflow covers 2001–2025 and reproduces the temporal analyses, FAI-based fire-season delineation, atmospheric-circulation analysis, hotspot summaries, count-regression models, Hurdle Random Forest models, temporal and spatial out-of-fold validation, OOF SHAP interpretation, unified model comparison, and seasonal SEM analyses.
 
 ## Reproducibility scope
 
@@ -113,7 +113,15 @@ The manuscript’s archived Python environment used Python 3.11 with NumPy, pand
 
 ## Citation
 
-Citation metadata are provided in `CITATION.cff`. Add the final article DOI and repository DOI after acceptance or Zenodo archiving.
+This repository provides the reproducibility package associated with the following published article:
+
+**How Do Multi-Factor Interactions Shape the Seasonal Dynamics of Forest Fires across the China–North Korea–Russia Transboundary Region?**  
+*Ecological Informatics* (2026).  
+https://doi.org/10.1016/j.ecoinf.2026.104049
+
+If you use the code, analysis-ready data, or workflow provided in this repository, please cite the associated article above.
+
+Citation metadata are also provided in `CITATION.cff`.
 
 ## License
 
